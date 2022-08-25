@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>nuxtjs on Nazmul&#39;s Blog</title>
-    <link>https://nazmulpro..github.io/tags/nuxtjs/</link>
+    <link>https://nazmulpro.github.io/tags/nuxtjs/</link>
     <description>Recent content in nuxtjs on Nazmul&#39;s Blog</description>
     <image>
-      <url>https://nazmulpro..github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nazmulpro..github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nazmulpro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nazmulpro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro..github.io/tags/nuxtjs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro.github.io/tags/nuxtjs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Deploy NuxtJs Application on IIS</title>
-      <link>https://nazmulpro..github.io/posts/how-to-deploy-nuxtjs-application-on-iis/</link>
+      <link>https://nazmulpro.github.io/posts/how-to-deploy-nuxtjs-application-on-iis/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/how-to-deploy-nuxtjs-application-on-iis/</guid>
+      <guid>https://nazmulpro.github.io/posts/how-to-deploy-nuxtjs-application-on-iis/</guid>
       <description>Please first watch this video
 https://www.youtube.com/watch?v=68hUMOQM9DA
 Step 1: Install nodejs LTS version https://nodejs.org/en/

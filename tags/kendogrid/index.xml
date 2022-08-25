@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>kendogrid on Nazmul&#39;s Blog</title>
-    <link>https://nazmulpro..github.io/tags/kendogrid/</link>
+    <link>https://nazmulpro.github.io/tags/kendogrid/</link>
     <description>Recent content in kendogrid on Nazmul&#39;s Blog</description>
     <image>
-      <url>https://nazmulpro..github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nazmulpro..github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nazmulpro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nazmulpro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Feb 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro..github.io/tags/kendogrid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Feb 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro.github.io/tags/kendogrid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Show default image if image field NULL in kendo grid</title>
-      <link>https://nazmulpro..github.io/posts/show-default-image-if-image-field-null-in-kendo-grid/</link>
+      <link>https://nazmulpro.github.io/posts/show-default-image-if-image-field-null-in-kendo-grid/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/show-default-image-if-image-field-null-in-kendo-grid/</guid>
+      <guid>https://nazmulpro.github.io/posts/show-default-image-if-image-field-null-in-kendo-grid/</guid>
       <description>If image field is null in kendo grid and you want to show default image then use this code.It will show default image if image field null.
 { field: &amp;#34;Photo&amp;#34;, title: &amp;#34;Photo&amp;#34;, template: function(dataItem) { return kendo.template( &amp;#39;&amp;lt;img src=&amp;#34;#= Photo #&amp;#34; alt=&amp;#34;image&amp;#34; width=&amp;#34;100px&amp;#34; height=&amp;#34;100px&amp;#34; /&amp;gt;&amp;#39; )({Photo: dataItem.Photo || &amp;#39;Add Your Default Image Path Here&amp;#39;}); } width: 100 } </description>
     </item>

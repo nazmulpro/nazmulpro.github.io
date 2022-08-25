@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>software on Nazmul&#39;s Blog</title>
-    <link>https://nazmulpro..github.io/categories/software/</link>
+    <link>https://nazmulpro.github.io/categories/software/</link>
     <description>Recent content in software on Nazmul&#39;s Blog</description>
     <image>
-      <url>https://nazmulpro..github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nazmulpro..github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nazmulpro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nazmulpro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro..github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro.github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rufus - Create bootable USB drives the easy way</title>
-      <link>https://nazmulpro..github.io/posts/rufus-create-bootable-usb-drives-the-easy-way/</link>
+      <link>https://nazmulpro.github.io/posts/rufus-create-bootable-usb-drives-the-easy-way/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/rufus-create-bootable-usb-drives-the-easy-way/</guid>
+      <guid>https://nazmulpro.github.io/posts/rufus-create-bootable-usb-drives-the-easy-way/</guid>
       <description>Website
 https://rufus.ie</description>
     </item>

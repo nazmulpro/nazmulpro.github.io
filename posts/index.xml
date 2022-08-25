@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Nazmul&#39;s Blog</title>
-    <link>https://nazmulpro..github.io/posts/</link>
+    <link>https://nazmulpro.github.io/posts/</link>
     <description>Recent content in Posts on Nazmul&#39;s Blog</description>
     <image>
-      <url>https://nazmulpro..github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nazmulpro..github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nazmulpro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nazmulpro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro..github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Deploy NuxtJs Application on IIS</title>
-      <link>https://nazmulpro..github.io/posts/how-to-deploy-nuxtjs-application-on-iis/</link>
+      <link>https://nazmulpro.github.io/posts/how-to-deploy-nuxtjs-application-on-iis/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/how-to-deploy-nuxtjs-application-on-iis/</guid>
+      <guid>https://nazmulpro.github.io/posts/how-to-deploy-nuxtjs-application-on-iis/</guid>
       <description>Please first watch this video
 https://www.youtube.com/watch?v=68hUMOQM9DA
 Step 1: Install nodejs LTS version https://nodejs.org/en/
@@ -30,20 +30,20 @@ web config
     
     <item>
       <title>Bootable usb pendrive using cmd - Windows 10</title>
-      <link>https://nazmulpro..github.io/posts/bootable-usb-pendrive-using-cmd-windows-10/</link>
+      <link>https://nazmulpro.github.io/posts/bootable-usb-pendrive-using-cmd-windows-10/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/bootable-usb-pendrive-using-cmd-windows-10/</guid>
+      <guid>https://nazmulpro.github.io/posts/bootable-usb-pendrive-using-cmd-windows-10/</guid>
       <description>Bootable usb pendrive using cmd - Windows 10.
 Open a command prompt as administrator Type C:\Windows\system32&amp;gt; diskpart Type DISKPART&amp;gt; list disk DISKPART&amp;gt; select disk 2 (Select your flash drive by running select disk # (Becareful)) DISKPART&amp;gt; clean DISKPART&amp;gt; create partition primary DISKPART&amp;gt; select partition 1 DISKPART&amp;gt; format fs=ntfs quick DISKPART&amp;gt; active DISKPART&amp;gt; exit </description>
     </item>
     
     <item>
       <title>Simple Ecommerce Shopping Cart - Vuejs, Vuex , BootstrapVue , Json-server</title>
-      <link>https://nazmulpro..github.io/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</link>
+      <link>https://nazmulpro.github.io/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</guid>
+      <guid>https://nazmulpro.github.io/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</guid>
       <description>Simple Ecommerce Shopping Cart - Vuejs, Vuex , BootstrapVue , Json-server
 https://www.youtube.com/watch?v=fJ60O6ROjiM
 Demo : https://vueecommerce.herokuapp.com
@@ -52,30 +52,30 @@ Code : https://github.com/nazmulpro/vue-master-shop</description>
     
     <item>
       <title>Rufus - Create bootable USB drives the easy way</title>
-      <link>https://nazmulpro..github.io/posts/rufus-create-bootable-usb-drives-the-easy-way/</link>
+      <link>https://nazmulpro.github.io/posts/rufus-create-bootable-usb-drives-the-easy-way/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/rufus-create-bootable-usb-drives-the-easy-way/</guid>
+      <guid>https://nazmulpro.github.io/posts/rufus-create-bootable-usb-drives-the-easy-way/</guid>
       <description>Website
 https://rufus.ie</description>
     </item>
     
     <item>
       <title>ASP.NET Core 2.2 Connection String</title>
-      <link>https://nazmulpro..github.io/posts/asp-net-core-2-2-connection-string/</link>
+      <link>https://nazmulpro.github.io/posts/asp-net-core-2-2-connection-string/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/asp-net-core-2-2-connection-string/</guid>
+      <guid>https://nazmulpro.github.io/posts/asp-net-core-2-2-connection-string/</guid>
       <description>ASP.NET Core 2.2 Connection String
 &amp;#34;ConnectionStrings&amp;#34;: { &amp;#34;DefaultConnection&amp;#34;: &amp;#34;Server=YourServer;Database=YourDataBase;User Id=YourUsername;password=YourPassword;Trusted_Connection=False;MultipleActiveResultSets=true;&amp;#34; } ` </description>
     </item>
     
     <item>
       <title>Angularjs 4 &#43; Firebase ToDo Application (Video)</title>
-      <link>https://nazmulpro..github.io/posts/angularjs-4-firebase-todo-application-video/</link>
+      <link>https://nazmulpro.github.io/posts/angularjs-4-firebase-todo-application-video/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/angularjs-4-firebase-todo-application-video/</guid>
+      <guid>https://nazmulpro.github.io/posts/angularjs-4-firebase-todo-application-video/</guid>
       <description>Simple Angularjs 4 + Firebase Todo App
 Setup and Demo Video https://www.youtube.com/watch?v=fTh1XfqzVnQ&amp;amp;w=560&amp;amp;h=315
 Code : https://github.com/nazmulrockon/angularJs4_Firebase_ToDoApp</description>
@@ -83,59 +83,59 @@ Code : https://github.com/nazmulrockon/angularJs4_Firebase_ToDoApp</description
     
     <item>
       <title>Show default image if image field NULL in kendo grid</title>
-      <link>https://nazmulpro..github.io/posts/show-default-image-if-image-field-null-in-kendo-grid/</link>
+      <link>https://nazmulpro.github.io/posts/show-default-image-if-image-field-null-in-kendo-grid/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/show-default-image-if-image-field-null-in-kendo-grid/</guid>
+      <guid>https://nazmulpro.github.io/posts/show-default-image-if-image-field-null-in-kendo-grid/</guid>
       <description>If image field is null in kendo grid and you want to show default image then use this code.It will show default image if image field null.
 { field: &amp;#34;Photo&amp;#34;, title: &amp;#34;Photo&amp;#34;, template: function(dataItem) { return kendo.template( &amp;#39;&amp;lt;img src=&amp;#34;#= Photo #&amp;#34; alt=&amp;#34;image&amp;#34; width=&amp;#34;100px&amp;#34; height=&amp;#34;100px&amp;#34; /&amp;gt;&amp;#39; )({Photo: dataItem.Photo || &amp;#39;Add Your Default Image Path Here&amp;#39;}); } width: 100 } </description>
     </item>
     
     <item>
       <title>C# Program - How to find factorial of a number in  C# ?</title>
-      <link>https://nazmulpro..github.io/posts/c-program-how-to-find-factorial-of-a-number-in-c/</link>
+      <link>https://nazmulpro.github.io/posts/c-program-how-to-find-factorial-of-a-number-in-c/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/c-program-how-to-find-factorial-of-a-number-in-c/</guid>
+      <guid>https://nazmulpro.github.io/posts/c-program-how-to-find-factorial-of-a-number-in-c/</guid>
       <description>Find factorial of a number in C#
 using System; using System.Collections.Generic; using System.Linq; using System.Text; using System.Threading.Tasks; namespace FactorialNumber\_ForLoop { class Program { static void Main(string\[\] args) { int number, fact = 1; Console.WriteLine(&amp;#34;Enter the number&amp;#34;); number = int.Parse(Console.ReadLine()); for (int i = number; i &amp;gt;=1; i--) { fact = fact \* i; } Console.WriteLine(&amp;#34;{0} Factorial is {1}&amp;#34;,number,fact); } } } Output: Enter the number 5 5 Factorial is 120</description>
     </item>
     
     <item>
       <title>C# Program - How to find factorial of a number in  C# using recursion  ?</title>
-      <link>https://nazmulpro..github.io/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</link>
+      <link>https://nazmulpro.github.io/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</guid>
+      <guid>https://nazmulpro.github.io/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</guid>
       <description>Find factorial of a number in C# using recursion
 using System; using System.Collections.Generic; using System.Linq; using System.Text; using System.Threading.Tasks; namespace FactorialNumber\_Recursion { class Program { static void Main(string\[\] args) { int number =0; Console.WriteLine(&amp;#34;Enter the number&amp;#34;); number = int.Parse(Console.ReadLine()); int fact = Factorial(number); Console.WriteLine(&amp;#34;{0} Factorial is {1}&amp;#34;, number, fact); } public static int Factorial(int num) { if (num ==0) { return 1; } else { return (num \* Factorial(num - 1)); } } } } Output: Enter the number 5 5 Factorial is 120</description>
     </item>
     
     <item>
       <title>Evernote2Onenote [VIDEO]</title>
-      <link>https://nazmulpro..github.io/posts/evernote2onenote/</link>
+      <link>https://nazmulpro.github.io/posts/evernote2onenote/</link>
       <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/evernote2onenote/</guid>
+      <guid>https://nazmulpro.github.io/posts/evernote2onenote/</guid>
       <description>Export Evernote notes to Onenote https://www.youtube.com/watch?v=3ENMZzQ9Llc</description>
     </item>
     
     <item>
       <title>ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login [VIDEO]</title>
-      <link>https://nazmulpro..github.io/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</link>
+      <link>https://nazmulpro.github.io/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</link>
       <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</guid>
+      <guid>https://nazmulpro.github.io/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</guid>
       <description>ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login
 http://youtu.be/yXNj1iBe9k0</description>
     </item>
     
     <item>
       <title>Get current User Id in ASP.NET MVC5</title>
-      <link>https://nazmulpro..github.io/posts/get-current-user-id-in-asp-net-mvc5/</link>
+      <link>https://nazmulpro.github.io/posts/get-current-user-id-in-asp-net-mvc5/</link>
       <pubDate>Fri, 26 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/get-current-user-id-in-asp-net-mvc5/</guid>
+      <guid>https://nazmulpro.github.io/posts/get-current-user-id-in-asp-net-mvc5/</guid>
       <description>Get Current UserId in ASP.NET MVC5
 var userId = User.Identity.GetUserId(); You must add this namespace :)
 using Microsoft.AspNet.Identity; </description>
@@ -143,20 +143,20 @@ using Microsoft.AspNet.Identity; </description>
     
     <item>
       <title>Remove the Default Layout ASP.NET MVC*</title>
-      <link>https://nazmulpro..github.io/posts/remove-the-default-layout-asp-net-mvc/</link>
+      <link>https://nazmulpro.github.io/posts/remove-the-default-layout-asp-net-mvc/</link>
       <pubDate>Thu, 25 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/remove-the-default-layout-asp-net-mvc/</guid>
+      <guid>https://nazmulpro.github.io/posts/remove-the-default-layout-asp-net-mvc/</guid>
       <description>If you want to remove the default layout from a view set this in that view
 @{Layout = null;} </description>
     </item>
     
     <item>
       <title>OpenGL Solar System</title>
-      <link>https://nazmulpro..github.io/posts/opengl-solar-system/</link>
+      <link>https://nazmulpro.github.io/posts/opengl-solar-system/</link>
       <pubDate>Wed, 24 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/opengl-solar-system/</guid>
+      <guid>https://nazmulpro.github.io/posts/opengl-solar-system/</guid>
       <description>Just found this project in my old laptop.This is simple OpenGL Solar System Project.
 https://www.youtube.com/watch?v=sqDdEqAzTQ0
 Source Code https://github.com/nazmulrockon/OpenGL-Solar-System</description>
@@ -164,10 +164,10 @@ Source Code https://github.com/nazmulrockon/OpenGL-Solar-System</description>
     
     <item>
       <title>Customize User&#39;s Profile in ASP.NET MVC5 Identity 2 [VIDEO]</title>
-      <link>https://nazmulpro..github.io/posts/customize-users-profile-in-asp-net-identity-2/</link>
+      <link>https://nazmulpro.github.io/posts/customize-users-profile-in-asp-net-identity-2/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/customize-users-profile-in-asp-net-identity-2/</guid>
+      <guid>https://nazmulpro.github.io/posts/customize-users-profile-in-asp-net-identity-2/</guid>
       <description>Customize User&amp;rsquo;s Profile in ASP.NET Identity 2
 Watch Video
 http://youtu.be/jBG8rJEQXNM</description>
@@ -175,20 +175,20 @@ http://youtu.be/jBG8rJEQXNM</description>
     
     <item>
       <title>Change Default Password Validation in ASP.Net MVC5 Identity 2 [VIDEO]</title>
-      <link>https://nazmulpro..github.io/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</link>
+      <link>https://nazmulpro.github.io/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</link>
       <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</guid>
+      <guid>https://nazmulpro.github.io/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</guid>
       <description>Change Default Password Validation in ASP.Net MVC5 Identity 2
 http://youtu.be/fGSHtkfd2-o</description>
     </item>
     
     <item>
       <title>Repository Pattern</title>
-      <link>https://nazmulpro..github.io/posts/repository-pattern/</link>
+      <link>https://nazmulpro.github.io/posts/repository-pattern/</link>
       <pubDate>Sat, 13 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro..github.io/posts/repository-pattern/</guid>
+      <guid>https://nazmulpro.github.io/posts/repository-pattern/</guid>
       <description>Mediates between the domain and data mapping layers using a collection-like interface for accessing domain objects. by Edward Hieatt and Rob Mee
 The Repository Pattern is a common construct to avoid duplication of data access logic throughout our application. The Repository pattern adds a separation layer between the data and domain layers of an application.
 Why Use Repository Pattern : Increase test-ability and have a loose coupling to underlying persistence technology.</description>
