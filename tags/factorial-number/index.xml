@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>factorial-number on Nazmul&#39;s Blog</title>
-    <link>https://nazmulpro.github.io/tags/factorial-number/</link>
+    <link>https://nazmulpro.com/tags/factorial-number/</link>
     <description>Recent content in factorial-number on Nazmul&#39;s Blog</description>
     <image>
-      <url>https://nazmulpro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nazmulpro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro.github.io/tags/factorial-number/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro.com/tags/factorial-number/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C# Program - How to find factorial of a number in  C# ?</title>
-      <link>https://nazmulpro.github.io/posts/c-program-how-to-find-factorial-of-a-number-in-c/</link>
+      <link>https://nazmulpro.com/posts/c-program-how-to-find-factorial-of-a-number-in-c/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro.github.io/posts/c-program-how-to-find-factorial-of-a-number-in-c/</guid>
+      <guid>https://nazmulpro.com/posts/c-program-how-to-find-factorial-of-a-number-in-c/</guid>
       <description>Find factorial of a number in C#
 using System; using System.Collections.Generic; using System.Linq; using System.Text; using System.Threading.Tasks; namespace FactorialNumber\_ForLoop { class Program { static void Main(string\[\] args) { int number, fact = 1; Console.WriteLine(&amp;#34;Enter the number&amp;#34;); number = int.Parse(Console.ReadLine()); for (int i = number; i &amp;gt;=1; i--) { fact = fact \* i; } Console.WriteLine(&amp;#34;{0} Factorial is {1}&amp;#34;,number,fact); } } } Output: Enter the number 5 5 Factorial is 120</description>
     </item>
     
     <item>
       <title>C# Program - How to find factorial of a number in  C# using recursion  ?</title>
-      <link>https://nazmulpro.github.io/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</link>
+      <link>https://nazmulpro.com/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro.github.io/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</guid>
+      <guid>https://nazmulpro.com/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</guid>
       <description>Find factorial of a number in C# using recursion
 using System; using System.Collections.Generic; using System.Linq; using System.Text; using System.Threading.Tasks; namespace FactorialNumber\_Recursion { class Program { static void Main(string\[\] args) { int number =0; Console.WriteLine(&amp;#34;Enter the number&amp;#34;); number = int.Parse(Console.ReadLine()); int fact = Factorial(number); Console.WriteLine(&amp;#34;{0} Factorial is {1}&amp;#34;, number, fact); } public static int Factorial(int num) { if (num ==0) { return 1; } else { return (num \* Factorial(num - 1)); } } } } Output: Enter the number 5 5 Factorial is 120</description>
     </item>

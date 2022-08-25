@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Video on Nazmul&#39;s Blog</title>
-    <link>https://nazmulpro.github.io/tags/video/</link>
+    <link>https://nazmulpro.com/tags/video/</link>
     <description>Recent content in Video on Nazmul&#39;s Blog</description>
     <image>
-      <url>https://nazmulpro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nazmulpro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro.github.io/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angularjs 4 &#43; Firebase ToDo Application (Video)</title>
-      <link>https://nazmulpro.github.io/posts/angularjs-4-firebase-todo-application-video/</link>
+      <link>https://nazmulpro.com/posts/angularjs-4-firebase-todo-application-video/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro.github.io/posts/angularjs-4-firebase-todo-application-video/</guid>
+      <guid>https://nazmulpro.com/posts/angularjs-4-firebase-todo-application-video/</guid>
       <description>Simple Angularjs 4 + Firebase Todo App
 Setup and Demo Video https://www.youtube.com/watch?v=fTh1XfqzVnQ&amp;amp;w=560&amp;amp;h=315
 Code : https://github.com/nazmulrockon/angularJs4_Firebase_ToDoApp</description>
@@ -24,20 +24,20 @@ Code : https://github.com/nazmulrockon/angularJs4_Firebase_ToDoApp</description
     
     <item>
       <title>ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login [VIDEO]</title>
-      <link>https://nazmulpro.github.io/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</link>
+      <link>https://nazmulpro.com/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</link>
       <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro.github.io/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</guid>
+      <guid>https://nazmulpro.com/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</guid>
       <description>ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login
 http://youtu.be/yXNj1iBe9k0</description>
     </item>
     
     <item>
       <title>OpenGL Solar System</title>
-      <link>https://nazmulpro.github.io/posts/opengl-solar-system/</link>
+      <link>https://nazmulpro.com/posts/opengl-solar-system/</link>
       <pubDate>Wed, 24 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro.github.io/posts/opengl-solar-system/</guid>
+      <guid>https://nazmulpro.com/posts/opengl-solar-system/</guid>
       <description>Just found this project in my old laptop.This is simple OpenGL Solar System Project.
 https://www.youtube.com/watch?v=sqDdEqAzTQ0
 Source Code https://github.com/nazmulrockon/OpenGL-Solar-System</description>
@@ -45,10 +45,10 @@ Source Code https://github.com/nazmulrockon/OpenGL-Solar-System</description>
     
     <item>
       <title>Customize User&#39;s Profile in ASP.NET MVC5 Identity 2 [VIDEO]</title>
-      <link>https://nazmulpro.github.io/posts/customize-users-profile-in-asp-net-identity-2/</link>
+      <link>https://nazmulpro.com/posts/customize-users-profile-in-asp-net-identity-2/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro.github.io/posts/customize-users-profile-in-asp-net-identity-2/</guid>
+      <guid>https://nazmulpro.com/posts/customize-users-profile-in-asp-net-identity-2/</guid>
       <description>Customize User&amp;rsquo;s Profile in ASP.NET Identity 2
 Watch Video
 http://youtu.be/jBG8rJEQXNM</description>
@@ -56,10 +56,10 @@ http://youtu.be/jBG8rJEQXNM</description>
     
     <item>
       <title>Change Default Password Validation in ASP.Net MVC5 Identity 2 [VIDEO]</title>
-      <link>https://nazmulpro.github.io/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</link>
+      <link>https://nazmulpro.com/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</link>
       <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nazmulpro.github.io/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</guid>
+      <guid>https://nazmulpro.com/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</guid>
       <description>Change Default Password Validation in ASP.Net MVC5 Identity 2
 http://youtu.be/fGSHtkfd2-o</description>
     </item>
