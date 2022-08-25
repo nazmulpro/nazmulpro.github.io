@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>asp-net on Nazmul&#39;s Blog</title>
+    <link>https://nazmulpro..github.io/tags/asp-net/</link>
+    <description>Recent content in asp-net on Nazmul&#39;s Blog</description>
+    <image>
+      <url>https://nazmulpro..github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nazmulpro..github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Dec 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro..github.io/tags/asp-net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remove the Default Layout ASP.NET MVC*</title>
+      <link>https://nazmulpro..github.io/posts/remove-the-default-layout-asp-net-mvc/</link>
+      <pubDate>Thu, 25 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://nazmulpro..github.io/posts/remove-the-default-layout-asp-net-mvc/</guid>
+      <description>If you want to remove the default layout from a view set this in that view
+@{Layout = null;} </description>
+    </item>
+    
+    <item>
+      <title>Customize User&#39;s Profile in ASP.NET MVC5 Identity 2 [VIDEO]</title>
+      <link>https://nazmulpro..github.io/posts/customize-users-profile-in-asp-net-identity-2/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://nazmulpro..github.io/posts/customize-users-profile-in-asp-net-identity-2/</guid>
+      <description>Customize User&amp;rsquo;s Profile in ASP.NET Identity 2
+Watch Video
+http://youtu.be/jBG8rJEQXNM</description>
+    </item>
+    
+  </channel>
+</rss>
