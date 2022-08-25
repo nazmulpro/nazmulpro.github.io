@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://nazmulpro..github.io/sitemap.xml

@@ -2,10 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://nazmulpro.github.io/categories/</loc>
+    <loc>http://nazmulpro..github.io/</loc>
+    <lastmod>2022-08-25T17:36:25+06:00</lastmod>
   </url><url>
-    <loc>http://nazmulpro.github.io/</loc>
+    <loc>http://nazmulpro..github.io/tags/first/</loc>
+    <lastmod>2022-08-25T17:36:25+06:00</lastmod>
   </url><url>
-    <loc>http://nazmulpro.github.io/tags/</loc>
+    <loc>http://nazmulpro..github.io/posts/mypost/</loc>
+    <lastmod>2022-08-25T17:36:25+06:00</lastmod>
+  </url><url>
+    <loc>http://nazmulpro..github.io/posts/</loc>
+    <lastmod>2022-08-25T17:36:25+06:00</lastmod>
+  </url><url>
+    <loc>http://nazmulpro..github.io/tags/</loc>
+    <lastmod>2022-08-25T17:36:25+06:00</lastmod>
+  </url><url>
+    <loc>http://nazmulpro..github.io/categories/</loc>
   </url>
 </urlset>
