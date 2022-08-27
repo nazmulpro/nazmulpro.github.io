@@ -17,8 +17,7 @@
       <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://nazmulpro.com/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</guid>
-      <description>ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login
-http://youtu.be/yXNj1iBe9k0</description>
+      <description>ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login</description>
     </item>
     
     <item>
@@ -49,8 +48,7 @@ using Microsoft.AspNet.Identity; </description>
       
       <guid>https://nazmulpro.com/posts/customize-users-profile-in-asp-net-identity-2/</guid>
       <description>Customize User&amp;rsquo;s Profile in ASP.NET Identity 2
-Watch Video
-http://youtu.be/jBG8rJEQXNM</description>
+Watch Video</description>
     </item>
     
     <item>
@@ -59,8 +57,7 @@ http://youtu.be/jBG8rJEQXNM</description>
       <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://nazmulpro.com/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</guid>
-      <description>Change Default Password Validation in ASP.Net MVC5 Identity 2
-http://youtu.be/fGSHtkfd2-o</description>
+      <description>Change Default Password Validation in ASP.Net MVC5 Identity 2</description>
     </item>
     
   </channel>

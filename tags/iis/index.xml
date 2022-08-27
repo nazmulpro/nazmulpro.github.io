@@ -17,9 +17,7 @@
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://nazmulpro.com/posts/how-to-deploy-nuxtjs-application-on-iis/</guid>
-      <description>Please first watch this video
-https://www.youtube.com/watch?v=68hUMOQM9DA
-Step 1: Install nodejs LTS version https://nodejs.org/en/
+      <description>Please first watch this video Step 1: Install nodejs LTS version https://nodejs.org/en/
 Step 2: install iisnode (x86 or x64 ) download link : https://github.com/Azure/iisnode
 Step 3: Install url-rewrite download link : https://www.iis.net/downloads/microsoft/url-rewrite
 Step 4: Create Simple Nuxt Application https://nuxtjs.org/guide/installation#using-code-create-nuxt-app-code

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nazmulpro.com/posts/migrate-from-wordpress-to-hugo/</loc>
+    <lastmod>2022-08-27T22:49:23+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/</loc>
+    <lastmod>2022-08-27T22:49:23+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/posts/</loc>
+    <lastmod>2022-08-27T22:49:23+06:00</lastmod>
+  </url><url>
     <loc>https://nazmulpro.com/posts/how-to-deploy-nuxtjs-application-on-iis/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,13 +20,7 @@
     <loc>https://nazmulpro.com/tags/iisnode/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nazmulpro.com/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nazmulpro.com/tags/nuxtjs/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nazmulpro.com/posts/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nazmulpro.com/tags/</loc>

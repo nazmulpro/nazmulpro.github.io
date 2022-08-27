@@ -10,16 +10,24 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Aug 2022 22:49:23 +0600</lastBuildDate><atom:link href="https://nazmulpro.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrate From WordPress to Hugo</title>
+      <link>https://nazmulpro.com/posts/migrate-from-wordpress-to-hugo/</link>
+      <pubDate>Sat, 27 Aug 2022 22:49:23 +0600</pubDate>
+      
+      <guid>https://nazmulpro.com/posts/migrate-from-wordpress-to-hugo/</guid>
+      <description>✔️ Platform - Hugo
+✔️ Theme - PaperMod ✔️ Comment - giscus ✔️ Hosting - Github Page ✔️ PageSpeed - 100% ✔️ Cost - 100% Free</description>
+    </item>
+    
     <item>
       <title>How To Deploy NuxtJs Application on IIS</title>
       <link>https://nazmulpro.com/posts/how-to-deploy-nuxtjs-application-on-iis/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://nazmulpro.com/posts/how-to-deploy-nuxtjs-application-on-iis/</guid>
-      <description>Please first watch this video
-https://www.youtube.com/watch?v=68hUMOQM9DA
-Step 1: Install nodejs LTS version https://nodejs.org/en/
+      <description>Please first watch this video Step 1: Install nodejs LTS version https://nodejs.org/en/
 Step 2: install iisnode (x86 or x64 ) download link : https://github.com/Azure/iisnode
 Step 3: Install url-rewrite download link : https://www.iis.net/downloads/microsoft/url-rewrite
 Step 4: Create Simple Nuxt Application https://nuxtjs.org/guide/installation#using-code-create-nuxt-app-code
@@ -45,7 +53,7 @@ Open a command prompt as administrator Type C:\Windows\system32&amp;gt; diskpart
       
       <guid>https://nazmulpro.com/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</guid>
       <description>Simple Ecommerce Shopping Cart - Vuejs, Vuex , BootstrapVue , Json-server
-https://www.youtube.com/watch?v=fJ60O6ROjiM
+&amp;ndash;
 Demo : https://vueecommerce.herokuapp.com
 Code : https://github.com/nazmulpro/vue-master-shop</description>
     </item>
@@ -77,8 +85,7 @@ https://rufus.ie</description>
       
       <guid>https://nazmulpro.com/posts/angularjs-4-firebase-todo-application-video/</guid>
       <description>Simple Angularjs 4 + Firebase Todo App
-Setup and Demo Video https://www.youtube.com/watch?v=fTh1XfqzVnQ&amp;amp;w=560&amp;amp;h=315
-Code : https://github.com/nazmulrockon/angularJs4_Firebase_ToDoApp</description>
+Setup and Demo Video Code : https://github.com/nazmulrockon/angularJs4_Firebase_ToDoApp</description>
     </item>
     
     <item>
@@ -117,7 +124,7 @@ using System; using System.Collections.Generic; using System.Linq; using System.
       <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://nazmulpro.com/posts/evernote2onenote/</guid>
-      <description>Export Evernote notes to Onenote https://www.youtube.com/watch?v=3ENMZzQ9Llc</description>
+      <description>Export Evernote notes to Onenote</description>
     </item>
     
     <item>
@@ -126,8 +133,7 @@ using System; using System.Collections.Generic; using System.Linq; using System.
       <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://nazmulpro.com/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</guid>
-      <description>ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login
-http://youtu.be/yXNj1iBe9k0</description>
+      <description>ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login</description>
     </item>
     
     <item>
@@ -158,7 +164,6 @@ using Microsoft.AspNet.Identity; </description>
       
       <guid>https://nazmulpro.com/posts/opengl-solar-system/</guid>
       <description>Just found this project in my old laptop.This is simple OpenGL Solar System Project.
-https://www.youtube.com/watch?v=sqDdEqAzTQ0
 Source Code https://github.com/nazmulrockon/OpenGL-Solar-System</description>
     </item>
     
@@ -169,8 +174,7 @@ Source Code https://github.com/nazmulrockon/OpenGL-Solar-System</description>
       
       <guid>https://nazmulpro.com/posts/customize-users-profile-in-asp-net-identity-2/</guid>
       <description>Customize User&amp;rsquo;s Profile in ASP.NET Identity 2
-Watch Video
-http://youtu.be/jBG8rJEQXNM</description>
+Watch Video</description>
     </item>
     
     <item>
@@ -179,8 +183,7 @@ http://youtu.be/jBG8rJEQXNM</description>
       <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://nazmulpro.com/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</guid>
-      <description>Change Default Password Validation in ASP.Net MVC5 Identity 2
-http://youtu.be/fGSHtkfd2-o</description>
+      <description>Change Default Password Validation in ASP.Net MVC5 Identity 2</description>
     </item>
     
     <item>
