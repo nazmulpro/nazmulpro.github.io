@@ -10,7 +10,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Aug 2022 22:49:23 +0600</lastBuildDate><atom:link href="https://nazmulpro.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Aug 2022 21:22:33 +0600</lastBuildDate><atom:link href="https://nazmulpro.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coolbrains Treeview Web Component - Built With Stenciljs</title>
+      <link>https://nazmulpro.com/posts/coolbrains-treeview-web-component-stenciljs/</link>
+      <pubDate>Wed, 31 Aug 2022 21:22:33 +0600</pubDate>
+      
+      <guid>https://nazmulpro.com/posts/coolbrains-treeview-web-component-stenciljs/</guid>
+      <description>This is a TreeView Web Component using Stenciljs.
+Built with Stencil Built with TailwindCSS v3.x *** Special thanks to Hasibul Haque
+Demo codesandbox
+Installation npm install cb-treeview Or use npm cdn
+&amp;lt;script type=&amp;#34;module&amp;#34; src=&amp;#34;https://cdn.jsdelivr.net/npm/cb-treeview@1.0.0/dist/cb-treeview/cb-treeview.esm.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Usage The Coolbrains TreeView Component can be use as following:
+&amp;lt;cb-treeview&amp;gt;&amp;lt;/cb-treeview&amp;gt; &amp;lt;script&amp;gt; const data = [ { id: 1, name: &amp;#39;Parent 1&amp;#39;, parentId: null, children: [ { id: 3, name: &amp;#39;Parent 1-0&amp;#39;, parentId: 1, children: [ { id: 2, name: &amp;#39;Leaf&amp;#39;, parentId: 3, children: [ { id: 8, name: &amp;#39;Leaf&amp;#39;, parentId: 2, children: [], }, ], }, ], }, { id: 4, name: &amp;#39;Parent 1-1&amp;#39;, parentId: 1, children: [], }, ], }, { id: 5, name: &amp;#39;Parent 2&amp;#39;, parentId: null, children: [], }, { id: 9, name: &amp;#39;Parent 3&amp;#39;, parentId: null, children: [ { id: 4, name: &amp;#39;Parent 3-0&amp;#39;, parentId: 9, children: [], }, { id: 4, name: &amp;#39;Parent 3-1&amp;#39;, parentId: 9, children: [], }, ], }, ]; const cbTreeView = document.</description>
+    </item>
+    
     <item>
       <title>Migrating From WordPress to Hugo</title>
       <link>https://nazmulpro.com/posts/migrating-from-wordpress-to-hugo/</link>
