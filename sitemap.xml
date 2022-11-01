@@ -5,11 +5,29 @@
     <loc>https://nazmulpro.com/posts/migrating-from-wordpress-to-hugo/</loc>
     <lastmod>2022-08-27T22:49:23+06:00</lastmod>
   </url><url>
+    <loc>https://nazmulpro.com/posts/coolbrains-toast-notification-web-component/</loc>
+    <lastmod>2022-11-02T01:54:42+06:00</lastmod>
+  </url><url>
     <loc>https://nazmulpro.com/</loc>
-    <lastmod>2022-11-01T16:52:54+06:00</lastmod>
+    <lastmod>2022-11-02T01:54:42+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/tags/notification/</loc>
+    <lastmod>2022-11-02T01:54:42+06:00</lastmod>
   </url><url>
     <loc>https://nazmulpro.com/posts/</loc>
-    <lastmod>2022-11-01T16:52:54+06:00</lastmod>
+    <lastmod>2022-11-02T01:54:42+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/tags/stenciljs/</loc>
+    <lastmod>2022-11-02T01:54:42+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/tags/</loc>
+    <lastmod>2022-11-02T01:54:42+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/tags/toast/</loc>
+    <lastmod>2022-11-02T01:54:42+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/tags/web-component/</loc>
+    <lastmod>2022-11-02T01:54:42+06:00</lastmod>
   </url><url>
     <loc>https://nazmulpro.com/tags/solid/</loc>
     <lastmod>2022-11-01T16:52:54+06:00</lastmod>
@@ -20,10 +38,10 @@
     <loc>https://nazmulpro.com/posts/solid-principles/</loc>
     <lastmod>2022-11-01T16:52:54+06:00</lastmod>
   </url><url>
-    <loc>https://nazmulpro.com/tags/</loc>
-    <lastmod>2022-11-01T16:52:54+06:00</lastmod>
-  </url><url>
     <loc>https://nazmulpro.com/posts/coolbrains-treeview-web-component-stenciljs/</loc>
+    <lastmod>2022-08-31T21:22:33+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/tags/treeview/</loc>
     <lastmod>2022-08-31T21:22:33+06:00</lastmod>
   </url><url>
     <loc>https://nazmulpro.com/posts/how-to-deploy-nuxtjs-application-on-iis/</loc>

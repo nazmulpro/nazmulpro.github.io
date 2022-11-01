@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Toast on Nazmul&#39;s Blog</title>
+    <link>https://nazmulpro.com/tags/toast/</link>
+    <description>Recent content in Toast on Nazmul&#39;s Blog</description>
+    <image>
+      <url>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2022 01:54:42 +0600</lastBuildDate><atom:link href="https://nazmulpro.com/tags/toast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coolbrains Toast Notification Web Component - Built With Stenciljs</title>
+      <link>https://nazmulpro.com/posts/coolbrains-toast-notification-web-component/</link>
+      <pubDate>Wed, 02 Nov 2022 01:54:42 +0600</pubDate>
+      
+      <guid>https://nazmulpro.com/posts/coolbrains-toast-notification-web-component/</guid>
+      <description>This is a toast notification Web Component using Stenciljs.
+Built with Stencil Built with TailwindCSS v3.x Demo Demo
+Installation npm install cb-toast Or use npm cdn
+&amp;lt;script type=&amp;#34;module&amp;#34; src=&amp;#34;https://cdn.jsdelivr.net/npm/cb-toast@1.0.3/dist/cb-toast/cb-toast.esm.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Usage The Coolbrains toast Component can be use as following:
+&amp;lt;cb-toast&amp;gt;&amp;lt;/cb-toast&amp;gt; &amp;lt;button id=&amp;#34;showToastSuccess&amp;#34; class=&amp;#34;bg-green-700&amp;#34;&amp;gt;Success&amp;lt;/button&amp;gt; &amp;lt;script&amp;gt; let cbToast = document.querySelector(&amp;#39;cb-toast&amp;#39;); document.getElementById(&amp;#39;showToastSuccess&amp;#39;).addEventListener(&amp;#39;click&amp;#39;, event =&amp;gt; { cbToast.Toast({ title: &amp;#39;Success&amp;#39;, //default description: &amp;#39;success message&amp;#39;, //default timeOut: 3000, //default position: &amp;#39;top-right&amp;#39;, //default type: &amp;#39;success&amp;#39;, //default }); }); &amp;lt;/script&amp;gt; Positions &amp;#39;top&amp;#39;; &amp;#39;bottom&amp;#39;; &amp;#39;top-left&amp;#39;; &amp;#39;top-right&amp;#39;; //default &amp;#39;bottom-left&amp;#39;; &amp;#39;bottom-right&amp;#39;; type &amp;#39;success&amp;#39;; //default &amp;#39;info&amp;#39;; &amp;#39;warning&amp;#39;; &amp;#39;error&amp;#39;; Code Github</description>
+    </item>
+    
+  </channel>
+</rss>
