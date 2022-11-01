@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nazmulpro.com/posts/coolbrains-treeview-web-component-stenciljs/</loc>
-    <lastmod>2022-08-31T21:22:33+06:00</lastmod>
-  </url><url>
     <loc>https://nazmulpro.com/</loc>
-    <lastmod>2022-08-31T21:22:33+06:00</lastmod>
+    <lastmod>2022-11-01T16:52:54+06:00</lastmod>
   </url><url>
     <loc>https://nazmulpro.com/posts/</loc>
+    <lastmod>2022-11-01T16:52:54+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/tags/solid/</loc>
+    <lastmod>2022-11-01T16:52:54+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/tags/solid-principles/</loc>
+    <lastmod>2022-11-01T16:52:54+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/posts/solid-principles/</loc>
+    <lastmod>2022-11-01T16:52:54+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/tags/</loc>
+    <lastmod>2022-11-01T16:52:54+06:00</lastmod>
+  </url><url>
+    <loc>https://nazmulpro.com/posts/coolbrains-treeview-web-component-stenciljs/</loc>
     <lastmod>2022-08-31T21:22:33+06:00</lastmod>
   </url><url>
     <loc>https://nazmulpro.com/posts/migrating-from-wordpress-to-hugo/</loc>
@@ -24,9 +36,6 @@
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nazmulpro.com/tags/nuxtjs/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nazmulpro.com/tags/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nazmulpro.com/tags/vuejs/</loc>

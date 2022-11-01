@@ -10,7 +10,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Aug 2022 21:22:33 +0600</lastBuildDate><atom:link href="https://nazmulpro.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Nov 2022 16:52:54 +0600</lastBuildDate><atom:link href="https://nazmulpro.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solid Principles-Short Note</title>
+      <link>https://nazmulpro.com/posts/solid-principles/</link>
+      <pubDate>Tue, 01 Nov 2022 16:52:54 +0600</pubDate>
+      
+      <guid>https://nazmulpro.com/posts/solid-principles/</guid>
+      <description>SOLID principles were introduced by Robert C.Martin (Uncle Bob). - Robert Cecil Martin
+What does SOLID stand for?
+S – Single Responsibility Principle
+A class should have one and only one reason to change, meaning that a class should have only one job
+O – Open Closed Principle
+Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.
+L – Liskov Substitution Principle
+Every subclass or derived class should be substitutable for its base or parent class</description>
+    </item>
+    
     <item>
       <title>Coolbrains Treeview Web Component - Built With Stenciljs</title>
       <link>https://nazmulpro.com/posts/coolbrains-treeview-web-component-stenciljs/</link>
