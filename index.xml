@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2022 01:54:42 +0600</lastBuildDate><atom:link href="https://nazmulpro.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jan 2026 15:53:53 +0600</lastBuildDate><atom:link href="https://nazmulpro.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrating From WordPress to Hugo</title>
       <link>https://nazmulpro.com/posts/migrating-from-wordpress-to-hugo/</link>
@@ -20,6 +20,15 @@
       <description>✔️ Platform - Hugo
 ✔️ Theme - PaperMod ✔️ Comment - giscus ✔️ Hosting - Github Page ✔️ PageSpeed - 100% ✔️ Cost - 100% Free
 PageSpeed Insights Mobile ⚡ Desktop ⚡ </description>
+    </item>
+    
+    <item>
+      <title>GitHub to GitLab Automatic Mirroring</title>
+      <link>https://nazmulpro.com/posts/github-to-gitlab-automatic-mirroring/</link>
+      <pubDate>Tue, 06 Jan 2026 15:53:53 +0600</pubDate>
+      
+      <guid>https://nazmulpro.com/posts/github-to-gitlab-automatic-mirroring/</guid>
+      <description></description>
     </item>
     
     <item>
