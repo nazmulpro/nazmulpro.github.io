@@ -10,25 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jan 2026 15:53:53 +0600</lastBuildDate><atom:link href="https://nazmulpro.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jan 2026 21:53:08 +0600</lastBuildDate><atom:link href="https://nazmulpro.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Migrating From WordPress to Hugo</title>
-      <link>https://nazmulpro.com/posts/migrating-from-wordpress-to-hugo/</link>
-      <pubDate>Sat, 27 Aug 2022 22:49:23 +0600</pubDate>
+      <title>How to Mirror GitHub to GitLab for Free using GitHub Actions</title>
+      <link>https://nazmulpro.com/posts/mirror-github-to-gitlab-using-github-actions/</link>
+      <pubDate>Tue, 06 Jan 2026 21:53:08 +0600</pubDate>
       
-      <guid>https://nazmulpro.com/posts/migrating-from-wordpress-to-hugo/</guid>
-      <description>✔️ Platform - Hugo
-✔️ Theme - PaperMod ✔️ Comment - giscus ✔️ Hosting - Github Page ✔️ PageSpeed - 100% ✔️ Cost - 100% Free
-PageSpeed Insights Mobile ⚡ Desktop ⚡ </description>
-    </item>
-    
-    <item>
-      <title>GitHub to GitLab Automatic Mirroring</title>
-      <link>https://nazmulpro.com/posts/github-to-gitlab-automatic-mirroring/</link>
-      <pubDate>Tue, 06 Jan 2026 15:53:53 +0600</pubDate>
-      
-      <guid>https://nazmulpro.com/posts/github-to-gitlab-automatic-mirroring/</guid>
-      <description></description>
+      <guid>https://nazmulpro.com/posts/mirror-github-to-gitlab-using-github-actions/</guid>
+      <description>I wanted a simple setup where GitHub stays my main repo, but GitLab always has a full backup. Any push to GitHub should automatically appear in GitLab—branches, tags, deletions, everything.
+GitLab offers pull mirroring, but it requires a paid subscription. This post demonstrates a free, production-safe solution using GitHub Actions.
+GitLab offers pull mirroring, but it requires a paid subscription. This post demonstrates a free, production-safe solution using GitHub Actions.</description>
     </item>
     
     <item>
@@ -72,6 +63,17 @@ Demo codesandbox
 Installation npm install cb-treeview Or use npm cdn
 &amp;lt;script type=&amp;#34;module&amp;#34; src=&amp;#34;https://cdn.jsdelivr.net/npm/cb-treeview@1.0.0/dist/cb-treeview/cb-treeview.esm.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Usage The Coolbrains TreeView Component can be use as following:
 &amp;lt;cb-treeview&amp;gt;&amp;lt;/cb-treeview&amp;gt; &amp;lt;script&amp;gt; const data = [ { id: 1, name: &amp;#39;Parent 1&amp;#39;, parentId: null, children: [ { id: 3, name: &amp;#39;Parent 1-0&amp;#39;, parentId: 1, children: [ { id: 2, name: &amp;#39;Leaf&amp;#39;, parentId: 3, children: [ { id: 8, name: &amp;#39;Leaf&amp;#39;, parentId: 2, children: [], }, ], }, ], }, { id: 4, name: &amp;#39;Parent 1-1&amp;#39;, parentId: 1, children: [], }, ], }, { id: 5, name: &amp;#39;Parent 2&amp;#39;, parentId: null, children: [], }, { id: 9, name: &amp;#39;Parent 3&amp;#39;, parentId: null, children: [ { id: 4, name: &amp;#39;Parent 3-0&amp;#39;, parentId: 9, children: [], }, { id: 4, name: &amp;#39;Parent 3-1&amp;#39;, parentId: 9, children: [], }, ], }, ]; const cbTreeView = document.</description>
+    </item>
+    
+    <item>
+      <title>Migrating From WordPress to Hugo</title>
+      <link>https://nazmulpro.com/posts/migrating-from-wordpress-to-hugo/</link>
+      <pubDate>Sat, 27 Aug 2022 22:49:23 +0600</pubDate>
+      
+      <guid>https://nazmulpro.com/posts/migrating-from-wordpress-to-hugo/</guid>
+      <description>✔️ Platform - Hugo
+✔️ Theme - PaperMod ✔️ Comment - giscus ✔️ Hosting - Github Page ✔️ PageSpeed - 100% ✔️ Cost - 100% Free
+PageSpeed Insights Mobile ⚡ Desktop ⚡ </description>
     </item>
     
     <item>
