@@ -5,20 +5,20 @@
     <link>https://nazmulpro.com/categories/</link>
     <description>Recent content in Categories on Nazmul&#39;s Blog</description>
     <image>
+      <title>Nazmul&#39;s Blog</title>
       <url>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nazmulpro.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>software</title>
+      <title>Software</title>
       <link>https://nazmulpro.com/categories/software/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/categories/software/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

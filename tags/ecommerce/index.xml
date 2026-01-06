@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ecommerce on Nazmul&#39;s Blog</title>
+    <title>Ecommerce on Nazmul&#39;s Blog</title>
     <link>https://nazmulpro.com/tags/ecommerce/</link>
-    <description>Recent content in ecommerce on Nazmul&#39;s Blog</description>
+    <description>Recent content in Ecommerce on Nazmul&#39;s Blog</description>
     <image>
+      <title>Nazmul&#39;s Blog</title>
       <url>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://nazmulpro.com/tags/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nazmulpro.com/tags/ecommerce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simple Ecommerce Shopping Cart - Vuejs, Vuex , BootstrapVue , Json-server</title>
       <link>https://nazmulpro.com/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</guid>
-      <description>Simple Ecommerce Shopping Cart - Vuejs, Vuex , BootstrapVue , Json-server
-&amp;ndash;
-Demo : https://vueecommerce.herokuapp.com
-Code : https://github.com/nazmulpro/vue-master-shop</description>
+      <description>&lt;p&gt;Simple Ecommerce Shopping Cart - Vuejs, Vuex , BootstrapVue , Json-server&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fJ60O6ROjiM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;p&gt;Demo : &lt;a href=&#34;https://vueecommerce.herokuapp.com&#34;&gt;https://vueecommerce.herokuapp.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Code : &lt;a href=&#34;https://github.com/nazmulpro/vue-master-shop&#34;&gt;https://github.com/nazmulpro/vue-master-shop&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

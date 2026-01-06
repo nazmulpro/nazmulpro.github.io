@@ -5,263 +5,473 @@
     <link>https://nazmulpro.com/</link>
     <description>Recent content on Nazmul&#39;s Blog</description>
     <image>
+      <title>Nazmul&#39;s Blog</title>
       <url>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jan 2026 21:53:08 +0600</lastBuildDate><atom:link href="https://nazmulpro.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jan 2026 21:53:08 +0600</lastBuildDate>
+    <atom:link href="https://nazmulpro.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Mirror GitHub to GitLab for Free using GitHub Actions</title>
       <link>https://nazmulpro.com/posts/mirror-github-to-gitlab-using-github-actions/</link>
       <pubDate>Tue, 06 Jan 2026 21:53:08 +0600</pubDate>
-      
       <guid>https://nazmulpro.com/posts/mirror-github-to-gitlab-using-github-actions/</guid>
-      <description>I wanted a simple setup where GitHub stays my main repo, but GitLab always has a full backup. Any push to GitHub should automatically appear in GitLab—branches, tags, deletions, everything.
-GitLab offers pull mirroring, but it requires a paid subscription. This post demonstrates a free, production-safe solution using GitHub Actions.
-GitLab offers pull mirroring, but it requires a paid subscription. This post demonstrates a free, production-safe solution using GitHub Actions.</description>
+      <description>&lt;p&gt;I wanted a simple setup where GitHub stays my main repo, but GitLab always has a full backup. Any push to GitHub should automatically appear in GitLab—branches, tags, deletions, everything.&lt;/p&gt;
+&lt;p&gt;GitLab offers pull mirroring, but it requires a paid subscription. This post demonstrates a free, production-safe solution using GitHub Actions.&lt;/p&gt;
+&lt;p&gt;GitLab offers pull mirroring, but it requires a paid subscription. This post demonstrates a free, production-safe solution using GitHub Actions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Coolbrains Toast Notification Web Component - Built With Stenciljs</title>
       <link>https://nazmulpro.com/posts/coolbrains-toast-notification-web-component/</link>
       <pubDate>Wed, 02 Nov 2022 01:54:42 +0600</pubDate>
-      
       <guid>https://nazmulpro.com/posts/coolbrains-toast-notification-web-component/</guid>
-      <description>This is a toast notification Web Component using Stenciljs.
-Built with Stencil Built with TailwindCSS v3.x Demo Demo
-Installation npm install cb-toast Or use npm cdn
-&amp;lt;script type=&amp;#34;module&amp;#34; src=&amp;#34;https://cdn.jsdelivr.net/npm/cb-toast@1.0.3/dist/cb-toast/cb-toast.esm.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Usage The Coolbrains toast Component can be use as following:
-&amp;lt;cb-toast&amp;gt;&amp;lt;/cb-toast&amp;gt; &amp;lt;button id=&amp;#34;showToastSuccess&amp;#34; class=&amp;#34;bg-green-700&amp;#34;&amp;gt;Success&amp;lt;/button&amp;gt; &amp;lt;script&amp;gt; let cbToast = document.querySelector(&amp;#39;cb-toast&amp;#39;); document.getElementById(&amp;#39;showToastSuccess&amp;#39;).addEventListener(&amp;#39;click&amp;#39;, event =&amp;gt; { cbToast.Toast({ title: &amp;#39;Success&amp;#39;, //default description: &amp;#39;success message&amp;#39;, //default timeOut: 3000, //default position: &amp;#39;top-right&amp;#39;, //default type: &amp;#39;success&amp;#39;, //default }); }); &amp;lt;/script&amp;gt; Positions &amp;#39;top&amp;#39;; &amp;#39;bottom&amp;#39;; &amp;#39;top-left&amp;#39;; &amp;#39;top-right&amp;#39;; //default &amp;#39;bottom-left&amp;#39;; &amp;#39;bottom-right&amp;#39;; type &amp;#39;success&amp;#39;; //default &amp;#39;info&amp;#39;; &amp;#39;warning&amp;#39;; &amp;#39;error&amp;#39;; Code Github</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Toast&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/nazmulpro/cb-toast/blob/main/toast.png?raw=true&#34; title=&#34;Toast&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is a toast notification Web Component using Stenciljs.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built with Stencil&lt;/li&gt;
+&lt;li&gt;Built with TailwindCSS v3.x&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cbtoast.netlify.app/&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install cb-toast
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Or use npm cdn&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;script&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;type&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;module&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;src&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;https://cdn.jsdelivr.net/npm/cb-toast@1.0.3/dist/cb-toast/cb-toast.esm.js&amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/script&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+&lt;p&gt;The Coolbrains toast Component can be use as following:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;cb-toast&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;cb-toast&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;button&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;showToastSuccess&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;bg-green-700&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Success&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;script&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;cbToast&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;document&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;querySelector&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;cb-toast&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;document&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;getElementById&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;showToastSuccess&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;).&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;addEventListener&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;click&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;event&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;nx&#34;&gt;cbToast&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Toast&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;({&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Success&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//default
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;success message&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//default
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;timeOut&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3000&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//default
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;position&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;top-right&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//default
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;type&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;success&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//default
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;});&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;p&#34;&gt;});&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/script&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;positions&#34;&gt;Positions&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;top&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;bottom&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;top-left&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;top-right&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//default
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;bottom-left&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;bottom-right&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;type&#34;&gt;type&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;success&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//default
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;info&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;warning&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;error&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/nazmulpro/cb-toast&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>SOLID Principles-Short Note</title>
       <link>https://nazmulpro.com/posts/solid-principles/</link>
       <pubDate>Tue, 01 Nov 2022 16:52:54 +0600</pubDate>
-      
       <guid>https://nazmulpro.com/posts/solid-principles/</guid>
-      <description>SOLID principles were introduced by Robert C.Martin (Uncle Bob). - Robert Cecil Martin
-What does SOLID stand for?
-S – Single Responsibility Principle
-A class should have one and only one reason to change, meaning that a class should have only one job
-O – Open Closed Principle
-Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.
-L – Liskov Substitution Principle
-Every subclass or derived class should be substitutable for its base or parent class</description>
+      <description>&lt;p&gt;&lt;strong&gt;SOLID principles were introduced by &lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_C._Martin&#34;&gt;Robert C.Martin&lt;/a&gt; (Uncle Bob). - Robert Cecil Martin&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What does SOLID stand for?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;S – Single Responsibility Principle&lt;/strong&gt;&lt;br&gt;
+A class should have one and only one reason to change, meaning that a class should have only one job&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O – Open Closed Principle&lt;/strong&gt;&lt;br&gt;
+Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L – Liskov Substitution Principle&lt;/strong&gt;&lt;br&gt;
+Every subclass or derived class should be substitutable for its base or parent class&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Coolbrains Treeview Web Component - Built With Stenciljs</title>
       <link>https://nazmulpro.com/posts/coolbrains-treeview-web-component-stenciljs/</link>
       <pubDate>Wed, 31 Aug 2022 21:22:33 +0600</pubDate>
-      
       <guid>https://nazmulpro.com/posts/coolbrains-treeview-web-component-stenciljs/</guid>
-      <description>This is a TreeView Web Component using Stenciljs.
-Built with Stencil Built with TailwindCSS v3.x *** Special thanks to Hasibul Haque
-Demo codesandbox
-Installation npm install cb-treeview Or use npm cdn
-&amp;lt;script type=&amp;#34;module&amp;#34; src=&amp;#34;https://cdn.jsdelivr.net/npm/cb-treeview@1.0.0/dist/cb-treeview/cb-treeview.esm.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Usage The Coolbrains TreeView Component can be use as following:
-&amp;lt;cb-treeview&amp;gt;&amp;lt;/cb-treeview&amp;gt; &amp;lt;script&amp;gt; const data = [ { id: 1, name: &amp;#39;Parent 1&amp;#39;, parentId: null, children: [ { id: 3, name: &amp;#39;Parent 1-0&amp;#39;, parentId: 1, children: [ { id: 2, name: &amp;#39;Leaf&amp;#39;, parentId: 3, children: [ { id: 8, name: &amp;#39;Leaf&amp;#39;, parentId: 2, children: [], }, ], }, ], }, { id: 4, name: &amp;#39;Parent 1-1&amp;#39;, parentId: 1, children: [], }, ], }, { id: 5, name: &amp;#39;Parent 2&amp;#39;, parentId: null, children: [], }, { id: 9, name: &amp;#39;Parent 3&amp;#39;, parentId: null, children: [ { id: 4, name: &amp;#39;Parent 3-0&amp;#39;, parentId: 9, children: [], }, { id: 4, name: &amp;#39;Parent 3-1&amp;#39;, parentId: 9, children: [], }, ], }, ]; const cbTreeView = document.</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Treeview&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/nazmulpro/cb-treeview/blob/main/treeview.png?raw=true&#34; title=&#34;Treeview&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is a TreeView Web Component using Stenciljs.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built with Stencil&lt;/li&gt;
+&lt;li&gt;Built with TailwindCSS v3.x&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*** Special thanks to &lt;a href=&#34;https://github.com/hasibul2363&#34;&gt;Hasibul Haque&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://codesandbox.io/s/coolbrains-treeview-component-built-with-stenciljs-eixw6s?file=/index.html&#34;&gt;codesandbox&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install cb-treeview
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Or use npm cdn&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;script&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;type&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;module&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;src&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;https://cdn.jsdelivr.net/npm/cb-treeview@1.0.0/dist/cb-treeview/cb-treeview.esm.js&amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/script&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+&lt;p&gt;The Coolbrains TreeView Component can be use as following:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;cb-treeview&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;cb-treeview&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;script&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kr&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Parent 1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;parentId&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;null&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;children&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Parent 1-0&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;parentId&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;children&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                  &lt;span class=&#34;nx&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                  &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Leaf&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                  &lt;span class=&#34;nx&#34;&gt;parentId&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                  &lt;span class=&#34;nx&#34;&gt;children&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                      &lt;span class=&#34;nx&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;8&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                      &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Leaf&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                      &lt;span class=&#34;nx&#34;&gt;parentId&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                      &lt;span class=&#34;nx&#34;&gt;children&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[],&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                    &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                  &lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Parent 1-1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;parentId&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;children&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[],&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Parent 2&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;parentId&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;null&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;children&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[],&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;9&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Parent 3&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;parentId&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;null&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;nx&#34;&gt;children&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Parent 3-0&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;parentId&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;9&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;children&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[],&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Parent 3-1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;parentId&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;9&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;              &lt;span class=&#34;nx&#34;&gt;children&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[],&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;p&#34;&gt;];&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kr&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;cbTreeView&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;document&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;querySelector&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;cb-treeview&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;cbTreeView&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;dataSource&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/script&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;hide checkbox:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Migrating From WordPress to Hugo</title>
       <link>https://nazmulpro.com/posts/migrating-from-wordpress-to-hugo/</link>
       <pubDate>Sat, 27 Aug 2022 22:49:23 +0600</pubDate>
-      
       <guid>https://nazmulpro.com/posts/migrating-from-wordpress-to-hugo/</guid>
-      <description>✔️ Platform - Hugo
-✔️ Theme - PaperMod ✔️ Comment - giscus ✔️ Hosting - Github Page ✔️ PageSpeed - 100% ✔️ Cost - 100% Free
-PageSpeed Insights Mobile ⚡ Desktop ⚡ </description>
+      <description>&lt;p&gt;✔️ Platform - Hugo&lt;br&gt;
+✔️ Theme - PaperMod  &lt;br&gt;
+✔️ Comment - giscus  &lt;br&gt;
+✔️ Hosting - Github Page     &lt;br&gt;
+✔️ PageSpeed - 100%   &lt;br&gt;
+✔️ Cost - 100% Free&lt;/p&gt;
+&lt;h1 id=&#34;pagespeed-insights&#34;&gt;PageSpeed Insights&lt;/h1&gt;
+&lt;h3 id=&#34;mobile-&#34;&gt;Mobile ⚡&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;mobile&#34; loading=&#34;lazy&#34; src=&#34;https://nazmulpro.com/images/page_speed_mobile.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;desktop-&#34;&gt;Desktop ⚡&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Evernote2Onenote&#34; loading=&#34;lazy&#34; src=&#34;https://nazmulpro.com/images/page_speed_desktop.png&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How To Deploy NuxtJs Application on IIS</title>
       <link>https://nazmulpro.com/posts/how-to-deploy-nuxtjs-application-on-iis/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/how-to-deploy-nuxtjs-application-on-iis/</guid>
-      <description>Please first watch this video Step 1: Install nodejs LTS version https://nodejs.org/en/
-Step 2: install iisnode (x86 or x64 ) download link : https://github.com/Azure/iisnode
-Step 3: Install url-rewrite download link : https://www.iis.net/downloads/microsoft/url-rewrite
-Step 4: Create Simple Nuxt Application https://nuxtjs.org/guide/installation#using-code-create-nuxt-app-code
-Step 5: deploy on IIS https://nuxtjs.org/faq/deployment-azure-portal
-web config
-&amp;lt;security&amp;gt; &amp;lt;requestFiltering&amp;gt; &amp;lt;hiddenSegments&amp;gt; &amp;lt;add segment=&amp;#34;node\_modules&amp;#34; /&amp;gt; &amp;lt;/hiddenSegments&amp;gt; &amp;lt;/requestFiltering&amp;gt; &amp;lt;/security&amp;gt; &amp;lt;iisnode node\_env=&amp;#34;production&amp;#34; /&amp;gt; Special thanks to Hasibul Haque</description>
+      <description>&lt;h3 id=&#34;please-first-watch-this-video&#34;&gt;Please first watch this video&lt;/h3&gt;
+&lt;h2 id=&#34;hahahugoshortcode20s0hbhb&#34;&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/68hUMOQM9DA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Install nodejs LTS version &lt;a href=&#34;https://nodejs.org/en/&#34;&gt;https://nodejs.org/en/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; install iisnode (x86 or x64 ) download link : &lt;a href=&#34;https://github.com/Azure/iisnode&#34;&gt;https://github.com/Azure/iisnode&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; Install url-rewrite download link : &lt;a href=&#34;https://www.iis.net/downloads/microsoft/url-rewrite&#34;&gt;https://www.iis.net/downloads/microsoft/url-rewrite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 4:&lt;/strong&gt; Create Simple Nuxt Application &lt;a href=&#34;https://nuxtjs.org/guide/installation#using-code-create-nuxt-app-code&#34;&gt;https://nuxtjs.org/guide/installation#using-code-create-nuxt-app-code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 5:&lt;/strong&gt; deploy on IIS &lt;a href=&#34;https://nuxtjs.org/faq/deployment-azure-portal&#34;&gt;https://nuxtjs.org/faq/deployment-azure-portal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;web config&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;security&amp;gt;
+  &amp;lt;requestFiltering&amp;gt;
+    &amp;lt;hiddenSegments&amp;gt;
+      &amp;lt;add segment=&amp;#34;node\_modules&amp;#34; /&amp;gt;
+    &amp;lt;/hiddenSegments&amp;gt;
+  &amp;lt;/requestFiltering&amp;gt;
+&amp;lt;/security&amp;gt;
+
+&amp;lt;iisnode node\_env=&amp;#34;production&amp;#34; /&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt; &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bootable usb pendrive using cmd - Windows 10</title>
       <link>https://nazmulpro.com/posts/bootable-usb-pendrive-using-cmd-windows-10/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/bootable-usb-pendrive-using-cmd-windows-10/</guid>
-      <description>Bootable usb pendrive using cmd - Windows 10.
-Open a command prompt as administrator Type C:\Windows\system32&amp;gt; diskpart Type DISKPART&amp;gt; list disk DISKPART&amp;gt; select disk 2 (Select your flash drive by running select disk # (Becareful)) DISKPART&amp;gt; clean DISKPART&amp;gt; create partition primary DISKPART&amp;gt; select partition 1 DISKPART&amp;gt; format fs=ntfs quick DISKPART&amp;gt; active DISKPART&amp;gt; exit </description>
+      <description>&lt;p&gt;Bootable usb pendrive using cmd - Windows 10.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open a command prompt as administrator&lt;/li&gt;
+&lt;li&gt;Type C:\Windows\system32&amp;gt; diskpart&lt;/li&gt;
+&lt;li&gt;Type DISKPART&amp;gt; list disk&lt;/li&gt;
+&lt;li&gt;DISKPART&amp;gt; select disk 2  (Select your flash drive by running select disk # (Becareful))&lt;/li&gt;
+&lt;li&gt;DISKPART&amp;gt; clean&lt;/li&gt;
+&lt;li&gt;DISKPART&amp;gt; create partition primary&lt;/li&gt;
+&lt;li&gt;DISKPART&amp;gt; select partition 1&lt;/li&gt;
+&lt;li&gt;DISKPART&amp;gt; format fs=ntfs quick&lt;/li&gt;
+&lt;li&gt;DISKPART&amp;gt; active&lt;/li&gt;
+&lt;li&gt;DISKPART&amp;gt; exit&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
-    
     <item>
       <title>Simple Ecommerce Shopping Cart - Vuejs, Vuex , BootstrapVue , Json-server</title>
       <link>https://nazmulpro.com/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</guid>
-      <description>Simple Ecommerce Shopping Cart - Vuejs, Vuex , BootstrapVue , Json-server
-&amp;ndash;
-Demo : https://vueecommerce.herokuapp.com
-Code : https://github.com/nazmulpro/vue-master-shop</description>
+      <description>&lt;p&gt;Simple Ecommerce Shopping Cart - Vuejs, Vuex , BootstrapVue , Json-server&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fJ60O6ROjiM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;p&gt;Demo : &lt;a href=&#34;https://vueecommerce.herokuapp.com&#34;&gt;https://vueecommerce.herokuapp.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Code : &lt;a href=&#34;https://github.com/nazmulpro/vue-master-shop&#34;&gt;https://github.com/nazmulpro/vue-master-shop&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rufus - Create bootable USB drives the easy way</title>
       <link>https://nazmulpro.com/posts/rufus-create-bootable-usb-drives-the-easy-way/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/rufus-create-bootable-usb-drives-the-easy-way/</guid>
-      <description>Website
-https://rufus.ie</description>
+      <description>&lt;p&gt;Website&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rufus.ie&#34;&gt;https://rufus.ie&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ASP.NET Core 2.2 Connection String</title>
       <link>https://nazmulpro.com/posts/asp-net-core-2-2-connection-string/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/asp-net-core-2-2-connection-string/</guid>
-      <description>ASP.NET Core 2.2 Connection String
-&amp;#34;ConnectionStrings&amp;#34;: { &amp;#34;DefaultConnection&amp;#34;: &amp;#34;Server=YourServer;Database=YourDataBase;User Id=YourUsername;password=YourPassword;Trusted_Connection=False;MultipleActiveResultSets=true;&amp;#34; } ` </description>
+      <description>&lt;p&gt;ASP.NET Core 2.2 Connection String&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;   &amp;#34;ConnectionStrings&amp;#34;: { &amp;#34;DefaultConnection&amp;#34;: &amp;#34;Server=YourServer;Database=YourDataBase;User Id=YourUsername;password=YourPassword;Trusted_Connection=False;MultipleActiveResultSets=true;&amp;#34; }   `
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
-    
     <item>
       <title>Angularjs 4 &#43; Firebase ToDo Application (Video)</title>
       <link>https://nazmulpro.com/posts/angularjs-4-firebase-todo-application-video/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/angularjs-4-firebase-todo-application-video/</guid>
-      <description>Simple Angularjs 4 + Firebase Todo App
-Setup and Demo Video Code : https://github.com/nazmulrockon/angularJs4_Firebase_ToDoApp</description>
+      <description>&lt;p&gt;Simple Angularjs 4 + Firebase Todo App&lt;/p&gt;
+&lt;p&gt;Setup and Demo Video &lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fTh1XfqzVnQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;Code : &lt;a href=&#34;https://github.com/nazmulrockon/angularJs4_Firebase_ToDoApp&#34;&gt;https://github.com/nazmulrockon/angularJs4_Firebase_ToDoApp&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Show default image if image field NULL in kendo grid</title>
       <link>https://nazmulpro.com/posts/show-default-image-if-image-field-null-in-kendo-grid/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/show-default-image-if-image-field-null-in-kendo-grid/</guid>
-      <description>If image field is null in kendo grid and you want to show default image then use this code.It will show default image if image field null.
-{ field: &amp;#34;Photo&amp;#34;, title: &amp;#34;Photo&amp;#34;, template: function(dataItem) { return kendo.template( &amp;#39;&amp;lt;img src=&amp;#34;#= Photo #&amp;#34; alt=&amp;#34;image&amp;#34; width=&amp;#34;100px&amp;#34; height=&amp;#34;100px&amp;#34; /&amp;gt;&amp;#39; )({Photo: dataItem.Photo || &amp;#39;Add Your Default Image Path Here&amp;#39;}); } width: 100 } </description>
+      <description>&lt;p&gt;If image field is null in kendo grid and you want to show default image then use this code.It will show default image if image field null.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{
+    field: &amp;#34;Photo&amp;#34;,
+    title: &amp;#34;Photo&amp;#34;,
+    template: function(dataItem) {
+        return kendo.template(
+           &amp;#39;&amp;lt;img src=&amp;#34;#= Photo #&amp;#34; alt=&amp;#34;image&amp;#34; width=&amp;#34;100px&amp;#34; height=&amp;#34;100px&amp;#34; /&amp;gt;&amp;#39;
+        )({Photo: dataItem.Photo || &amp;#39;Add Your Default Image Path Here&amp;#39;});
+    }
+    width: 100
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
-    
     <item>
       <title>C# Program - How to find factorial of a number in  C# ?</title>
       <link>https://nazmulpro.com/posts/c-program-how-to-find-factorial-of-a-number-in-c/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/c-program-how-to-find-factorial-of-a-number-in-c/</guid>
-      <description>Find factorial of a number in C#
-using System; using System.Collections.Generic; using System.Linq; using System.Text; using System.Threading.Tasks; namespace FactorialNumber\_ForLoop { class Program { static void Main(string\[\] args) { int number, fact = 1; Console.WriteLine(&amp;#34;Enter the number&amp;#34;); number = int.Parse(Console.ReadLine()); for (int i = number; i &amp;gt;=1; i--) { fact = fact \* i; } Console.WriteLine(&amp;#34;{0} Factorial is {1}&amp;#34;,number,fact); } } } Output: Enter the number 5 5 Factorial is 120</description>
+      <description>&lt;p&gt;&lt;strong&gt;Find factorial of a number in C#&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
+
+    namespace FactorialNumber\_ForLoop
+    {
+        class Program
+        {
+            static void Main(string\[\] args)
+            {
+                int number, fact = 1;
+                Console.WriteLine(&amp;#34;Enter the number&amp;#34;);
+                number = int.Parse(Console.ReadLine());
+
+                for (int i = number; i &amp;gt;=1; i--)
+                {
+                    fact = fact \* i;
+                }
+                Console.WriteLine(&amp;#34;{0} Factorial is {1}&amp;#34;,number,fact);
+            }
+        }
+    }
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Output:&lt;/strong&gt; Enter the number 5 5 Factorial is 120&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>C# Program - How to find factorial of a number in  C# using recursion  ?</title>
       <link>https://nazmulpro.com/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</guid>
-      <description>Find factorial of a number in C# using recursion
-using System; using System.Collections.Generic; using System.Linq; using System.Text; using System.Threading.Tasks; namespace FactorialNumber\_Recursion { class Program { static void Main(string\[\] args) { int number =0; Console.WriteLine(&amp;#34;Enter the number&amp;#34;); number = int.Parse(Console.ReadLine()); int fact = Factorial(number); Console.WriteLine(&amp;#34;{0} Factorial is {1}&amp;#34;, number, fact); } public static int Factorial(int num) { if (num ==0) { return 1; } else { return (num \* Factorial(num - 1)); } } } } Output: Enter the number 5 5 Factorial is 120</description>
+      <description>&lt;p&gt;&lt;strong&gt;Find factorial of a number in C# using recursion&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
+
+    namespace FactorialNumber\_Recursion
+    {
+        class Program
+        {
+            static void Main(string\[\] args)
+            {
+                int number =0;
+
+                Console.WriteLine(&amp;#34;Enter the number&amp;#34;);
+                number = int.Parse(Console.ReadLine());
+                int fact = Factorial(number);
+                Console.WriteLine(&amp;#34;{0} Factorial is {1}&amp;#34;, number, fact);
+            }
+
+            public static int Factorial(int num)
+            {
+                if (num ==0)
+                {
+                    return 1;
+                }
+                else
+                {
+                    return (num \* Factorial(num - 1));
+                }
+            }
+        }
+    }
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Output:&lt;/strong&gt; Enter the number 5 5 Factorial is 120&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Evernote2Onenote [VIDEO]</title>
       <link>https://nazmulpro.com/posts/evernote2onenote/</link>
       <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/evernote2onenote/</guid>
-      <description>Export Evernote notes to Onenote</description>
+      <description>&lt;p&gt;Export Evernote notes to Onenote&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Evernote2Onenote&#34; loading=&#34;lazy&#34; src=&#34;https://nazmulpro.com/images/evernote2onenote.gif&#34;&gt;&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/3ENMZzQ9Llc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login [VIDEO]</title>
       <link>https://nazmulpro.com/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</link>
       <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</guid>
-      <description>ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login</description>
+      <description>&lt;p&gt;ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yXNj1iBe9k0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>Get current User Id in ASP.NET MVC5</title>
       <link>https://nazmulpro.com/posts/get-current-user-id-in-asp-net-mvc5/</link>
       <pubDate>Fri, 26 Dec 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/get-current-user-id-in-asp-net-mvc5/</guid>
-      <description>Get Current UserId in ASP.NET MVC5
-var userId = User.Identity.GetUserId(); You must add this namespace :)
-using Microsoft.AspNet.Identity; </description>
+      <description>&lt;p&gt;Get Current UserId in ASP.NET MVC5&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;  var userId = User.Identity.GetUserId(); 
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You must add this namespace :)&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;using Microsoft.AspNet.Identity;
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
-    
     <item>
       <title>Remove the Default Layout ASP.NET MVC*</title>
       <link>https://nazmulpro.com/posts/remove-the-default-layout-asp-net-mvc/</link>
       <pubDate>Thu, 25 Dec 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/remove-the-default-layout-asp-net-mvc/</guid>
-      <description>If you want to remove the default layout from a view set this in that view
-@{Layout = null;} </description>
+      <description>&lt;p&gt;If you want to remove the default layout from a view set this in that view&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; @{Layout = null;}
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
-    
     <item>
       <title>OpenGL Solar System</title>
       <link>https://nazmulpro.com/posts/opengl-solar-system/</link>
       <pubDate>Wed, 24 Dec 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/opengl-solar-system/</guid>
-      <description>Just found this project in my old laptop.This is simple OpenGL Solar System Project.
-Source Code https://github.com/nazmulrockon/OpenGL-Solar-System</description>
+      <description>&lt;p&gt;Just found this  project in my old laptop.This is simple OpenGL Solar System Project.&lt;/p&gt;
+&lt;h2 id=&#34;hahahugoshortcode23s0hbhb&#34;&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/sqDdEqAzTQ0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Source Code&lt;/strong&gt; &lt;a href=&#34;https://github.com/nazmulrockon/OpenGL-Solar-System&#34; title=&#34;OpenGL Solar System&#34;&gt;https://github.com/nazmulrockon/OpenGL-Solar-System&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Customize User&#39;s Profile in ASP.NET MVC5 Identity 2 [VIDEO]</title>
       <link>https://nazmulpro.com/posts/customize-users-profile-in-asp-net-identity-2/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/customize-users-profile-in-asp-net-identity-2/</guid>
-      <description>Customize User&amp;rsquo;s Profile in ASP.NET Identity 2
-Watch Video</description>
+      <description>&lt;p&gt;Customize User&amp;rsquo;s Profile in ASP.NET Identity 2&lt;/p&gt;
+&lt;p&gt; 
+Watch Video&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/jBG8rJEQXNM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>Change Default Password Validation in ASP.Net MVC5 Identity 2 [VIDEO]</title>
       <link>https://nazmulpro.com/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</link>
       <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</guid>
-      <description>Change Default Password Validation in ASP.Net MVC5 Identity 2</description>
+      <description>&lt;p&gt;Change Default Password Validation in ASP.Net MVC5 Identity 2&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fGSHtkfd2-o?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>Repository Pattern</title>
       <link>https://nazmulpro.com/posts/repository-pattern/</link>
       <pubDate>Sat, 13 Sep 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/posts/repository-pattern/</guid>
-      <description>Mediates between the domain and data mapping layers using a collection-like interface for accessing domain objects. by Edward Hieatt and Rob Mee
-The Repository Pattern is a common construct to avoid duplication of data access logic throughout our application. The Repository pattern adds a separation layer between the data and domain layers of an application.
-Why Use Repository Pattern : Increase test-ability and have a loose coupling to underlying persistence technology.</description>
+      <description>&lt;p&gt;Mediates between the domain and data mapping layers using a collection-like interface for accessing domain objects. &lt;strong&gt;by Edward Hieatt and Rob Mee&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;http://martinfowler.com/eaaCatalog/repository.html&#34;&gt;Repository Pattern&lt;/a&gt; is a common construct to avoid duplication of data access logic throughout our application. The Repository pattern adds a separation layer between the data and domain layers of an application.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why Use Repository Pattern :&lt;/strong&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Increase test-ability and have a loose coupling to underlying persistence technology.&lt;/li&gt;
+&lt;li&gt;Improve the code&amp;rsquo;s maintainability and readability by separating business logic from data or service access logic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;1&#34; loading=&#34;lazy&#34; src=&#34;https://nazmulpro.com/images/1.png&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://nazmulpro.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://nazmulpro.com/about/</guid>
-      <description>Full Stack .Net Developer with passion for delivering quality software that is easy to use, maintainable, and extensible. Love programming , watch movies , listen music
-🎓 B.Sc. in Computer Science &amp;amp; Engineering (CSE) - Daffodil International University 📧 : nazmulprobd@gmail.com </description>
+      <description>&lt;p&gt;Full Stack .Net Developer with passion for delivering quality software that is easy to use, maintainable, and   extensible.
+Love programming , watch movies , listen music&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 B.Sc. in Computer Science &amp;amp; Engineering (CSE) - Daffodil International University&lt;/li&gt;
+&lt;li&gt;📧 : &lt;a href=&#34;mailto:nazmulprobd@gmail.com&#34;&gt;nazmulprobd@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
-    
   </channel>
 </rss>
