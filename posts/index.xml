@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Nazmul&#39;s Blog</title>
-    <link>https://nazmulpro.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Nazmul&#39;s Blog</description>
     <image>
       <title>Nazmul&#39;s Blog</title>
-      <url>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Jan 2026 21:53:08 +0600</lastBuildDate>
-    <atom:link href="https://nazmulpro.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Mirror GitHub to GitLab for Free using GitHub Actions</title>
-      <link>https://nazmulpro.com/posts/mirror-github-to-gitlab-using-github-actions/</link>
+      <title>How to Mirror GitHub Repositories to GitLab on the Free Plan</title>
+      <link>http://localhost:1313/posts/mirror-github-to-gitlab-using-github-actions/</link>
       <pubDate>Tue, 06 Jan 2026 21:53:08 +0600</pubDate>
-      <guid>https://nazmulpro.com/posts/mirror-github-to-gitlab-using-github-actions/</guid>
+      <guid>http://localhost:1313/posts/mirror-github-to-gitlab-using-github-actions/</guid>
       <description>&lt;p&gt;I wanted a simple setup where GitHub stays my main repo, but GitLab always has a full backup. Any push to GitHub should automatically appear in GitLab—branches, tags, deletions, everything.&lt;/p&gt;
 &lt;p&gt;GitLab offers pull mirroring, but it requires a paid subscription. This post demonstrates a free, production-safe solution using GitHub Actions.&lt;/p&gt;
 &lt;p&gt;GitLab offers pull mirroring, but it requires a paid subscription. This post demonstrates a free, production-safe solution using GitHub Actions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coolbrains Toast Notification Web Component - Built With Stenciljs</title>
-      <link>https://nazmulpro.com/posts/coolbrains-toast-notification-web-component/</link>
+      <link>http://localhost:1313/posts/coolbrains-toast-notification-web-component/</link>
       <pubDate>Wed, 02 Nov 2022 01:54:42 +0600</pubDate>
-      <guid>https://nazmulpro.com/posts/coolbrains-toast-notification-web-component/</guid>
+      <guid>http://localhost:1313/posts/coolbrains-toast-notification-web-component/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;Toast&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/nazmulpro/cb-toast/blob/main/toast.png?raw=true&#34; title=&#34;Toast&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This is a toast notification Web Component using Stenciljs.&lt;/p&gt;
 &lt;ul&gt;
@@ -75,9 +75,9 @@
     </item>
     <item>
       <title>SOLID Principles-Short Note</title>
-      <link>https://nazmulpro.com/posts/solid-principles/</link>
+      <link>http://localhost:1313/posts/solid-principles/</link>
       <pubDate>Tue, 01 Nov 2022 16:52:54 +0600</pubDate>
-      <guid>https://nazmulpro.com/posts/solid-principles/</guid>
+      <guid>http://localhost:1313/posts/solid-principles/</guid>
       <description>&lt;p&gt;&lt;strong&gt;SOLID principles were introduced by &lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_C._Martin&#34;&gt;Robert C.Martin&lt;/a&gt; (Uncle Bob). - Robert Cecil Martin&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What does SOLID stand for?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;S – Single Responsibility Principle&lt;/strong&gt;&lt;br&gt;
@@ -89,9 +89,9 @@ Every subclass or derived class should be substitutable for its base or parent c
     </item>
     <item>
       <title>Coolbrains Treeview Web Component - Built With Stenciljs</title>
-      <link>https://nazmulpro.com/posts/coolbrains-treeview-web-component-stenciljs/</link>
+      <link>http://localhost:1313/posts/coolbrains-treeview-web-component-stenciljs/</link>
       <pubDate>Wed, 31 Aug 2022 21:22:33 +0600</pubDate>
-      <guid>https://nazmulpro.com/posts/coolbrains-treeview-web-component-stenciljs/</guid>
+      <guid>http://localhost:1313/posts/coolbrains-treeview-web-component-stenciljs/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;Treeview&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/nazmulpro/cb-treeview/blob/main/treeview.png?raw=true&#34; title=&#34;Treeview&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This is a TreeView Web Component using Stenciljs.&lt;/p&gt;
 &lt;ul&gt;
@@ -176,9 +176,9 @@ Every subclass or derived class should be substitutable for its base or parent c
     </item>
     <item>
       <title>Migrating From WordPress to Hugo</title>
-      <link>https://nazmulpro.com/posts/migrating-from-wordpress-to-hugo/</link>
+      <link>http://localhost:1313/posts/migrating-from-wordpress-to-hugo/</link>
       <pubDate>Sat, 27 Aug 2022 22:49:23 +0600</pubDate>
-      <guid>https://nazmulpro.com/posts/migrating-from-wordpress-to-hugo/</guid>
+      <guid>http://localhost:1313/posts/migrating-from-wordpress-to-hugo/</guid>
       <description>&lt;p&gt;✔️ Platform - Hugo&lt;br&gt;
 ✔️ Theme - PaperMod  &lt;br&gt;
 ✔️ Comment - giscus  &lt;br&gt;
@@ -187,15 +187,15 @@ Every subclass or derived class should be substitutable for its base or parent c
 ✔️ Cost - 100% Free&lt;/p&gt;
 &lt;h1 id=&#34;pagespeed-insights&#34;&gt;PageSpeed Insights&lt;/h1&gt;
 &lt;h3 id=&#34;mobile-&#34;&gt;Mobile ⚡&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;mobile&#34; loading=&#34;lazy&#34; src=&#34;https://nazmulpro.com/images/page_speed_mobile.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;mobile&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/page_speed_mobile.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;desktop-&#34;&gt;Desktop ⚡&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Evernote2Onenote&#34; loading=&#34;lazy&#34; src=&#34;https://nazmulpro.com/images/page_speed_desktop.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Evernote2Onenote&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/page_speed_desktop.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Deploy NuxtJs Application on IIS</title>
-      <link>https://nazmulpro.com/posts/how-to-deploy-nuxtjs-application-on-iis/</link>
+      <link>http://localhost:1313/posts/how-to-deploy-nuxtjs-application-on-iis/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/how-to-deploy-nuxtjs-application-on-iis/</guid>
+      <guid>http://localhost:1313/posts/how-to-deploy-nuxtjs-application-on-iis/</guid>
       <description>&lt;h3 id=&#34;please-first-watch-this-video&#34;&gt;Please first watch this video&lt;/h3&gt;
 &lt;h2 id=&#34;hahahugoshortcode20s0hbhb&#34;&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/68hUMOQM9DA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -220,9 +220,9 @@ Every subclass or derived class should be substitutable for its base or parent c
     </item>
     <item>
       <title>Bootable usb pendrive using cmd - Windows 10</title>
-      <link>https://nazmulpro.com/posts/bootable-usb-pendrive-using-cmd-windows-10/</link>
+      <link>http://localhost:1313/posts/bootable-usb-pendrive-using-cmd-windows-10/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/bootable-usb-pendrive-using-cmd-windows-10/</guid>
+      <guid>http://localhost:1313/posts/bootable-usb-pendrive-using-cmd-windows-10/</guid>
       <description>&lt;p&gt;Bootable usb pendrive using cmd - Windows 10.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Open a command prompt as administrator&lt;/li&gt;
@@ -239,9 +239,9 @@ Every subclass or derived class should be substitutable for its base or parent c
     </item>
     <item>
       <title>Simple Ecommerce Shopping Cart - Vuejs, Vuex , BootstrapVue , Json-server</title>
-      <link>https://nazmulpro.com/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</link>
+      <link>http://localhost:1313/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</guid>
+      <guid>http://localhost:1313/posts/simple-ecommerce-shopping-cart-vuejs-vuex-bootstrapvue-json-server/</guid>
       <description>&lt;p&gt;Simple Ecommerce Shopping Cart - Vuejs, Vuex , BootstrapVue , Json-server&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fJ60O6ROjiM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -253,26 +253,26 @@ Every subclass or derived class should be substitutable for its base or parent c
     </item>
     <item>
       <title>Rufus - Create bootable USB drives the easy way</title>
-      <link>https://nazmulpro.com/posts/rufus-create-bootable-usb-drives-the-easy-way/</link>
+      <link>http://localhost:1313/posts/rufus-create-bootable-usb-drives-the-easy-way/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/rufus-create-bootable-usb-drives-the-easy-way/</guid>
+      <guid>http://localhost:1313/posts/rufus-create-bootable-usb-drives-the-easy-way/</guid>
       <description>&lt;p&gt;Website&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://rufus.ie&#34;&gt;https://rufus.ie&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ASP.NET Core 2.2 Connection String</title>
-      <link>https://nazmulpro.com/posts/asp-net-core-2-2-connection-string/</link>
+      <link>http://localhost:1313/posts/asp-net-core-2-2-connection-string/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/asp-net-core-2-2-connection-string/</guid>
+      <guid>http://localhost:1313/posts/asp-net-core-2-2-connection-string/</guid>
       <description>&lt;p&gt;ASP.NET Core 2.2 Connection String&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;   &amp;#34;ConnectionStrings&amp;#34;: { &amp;#34;DefaultConnection&amp;#34;: &amp;#34;Server=YourServer;Database=YourDataBase;User Id=YourUsername;password=YourPassword;Trusted_Connection=False;MultipleActiveResultSets=true;&amp;#34; }   `
 &lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
       <title>Angularjs 4 &#43; Firebase ToDo Application (Video)</title>
-      <link>https://nazmulpro.com/posts/angularjs-4-firebase-todo-application-video/</link>
+      <link>http://localhost:1313/posts/angularjs-4-firebase-todo-application-video/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/angularjs-4-firebase-todo-application-video/</guid>
+      <guid>http://localhost:1313/posts/angularjs-4-firebase-todo-application-video/</guid>
       <description>&lt;p&gt;Simple Angularjs 4 + Firebase Todo App&lt;/p&gt;
 &lt;p&gt;Setup and Demo Video &lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -283,9 +283,9 @@ Every subclass or derived class should be substitutable for its base or parent c
     </item>
     <item>
       <title>Show default image if image field NULL in kendo grid</title>
-      <link>https://nazmulpro.com/posts/show-default-image-if-image-field-null-in-kendo-grid/</link>
+      <link>http://localhost:1313/posts/show-default-image-if-image-field-null-in-kendo-grid/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/show-default-image-if-image-field-null-in-kendo-grid/</guid>
+      <guid>http://localhost:1313/posts/show-default-image-if-image-field-null-in-kendo-grid/</guid>
       <description>&lt;p&gt;If image field is null in kendo grid and you want to show default image then use this code.It will show default image if image field null.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{
     field: &amp;#34;Photo&amp;#34;,
@@ -301,9 +301,9 @@ Every subclass or derived class should be substitutable for its base or parent c
     </item>
     <item>
       <title>C# Program - How to find factorial of a number in  C# ?</title>
-      <link>https://nazmulpro.com/posts/c-program-how-to-find-factorial-of-a-number-in-c/</link>
+      <link>http://localhost:1313/posts/c-program-how-to-find-factorial-of-a-number-in-c/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/c-program-how-to-find-factorial-of-a-number-in-c/</guid>
+      <guid>http://localhost:1313/posts/c-program-how-to-find-factorial-of-a-number-in-c/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Find factorial of a number in C#&lt;/strong&gt;&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;    using System;
     using System.Collections.Generic;
@@ -333,9 +333,9 @@ Every subclass or derived class should be substitutable for its base or parent c
     </item>
     <item>
       <title>C# Program - How to find factorial of a number in  C# using recursion  ?</title>
-      <link>https://nazmulpro.com/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</link>
+      <link>http://localhost:1313/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</guid>
+      <guid>http://localhost:1313/posts/c-program-how-to-find-factorial-of-a-number-in-c-using-recursion/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Find factorial of a number in C# using recursion&lt;/strong&gt;&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;    using System;
     using System.Collections.Generic;
@@ -374,20 +374,20 @@ Every subclass or derived class should be substitutable for its base or parent c
     </item>
     <item>
       <title>Evernote2Onenote [VIDEO]</title>
-      <link>https://nazmulpro.com/posts/evernote2onenote/</link>
+      <link>http://localhost:1313/posts/evernote2onenote/</link>
       <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/evernote2onenote/</guid>
+      <guid>http://localhost:1313/posts/evernote2onenote/</guid>
       <description>&lt;p&gt;Export Evernote notes to Onenote&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Evernote2Onenote&#34; loading=&#34;lazy&#34; src=&#34;https://nazmulpro.com/images/evernote2onenote.gif&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Evernote2Onenote&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/evernote2onenote.gif&#34;&gt;&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/3ENMZzQ9Llc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;</description>
     </item>
     <item>
       <title>ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login [VIDEO]</title>
-      <link>https://nazmulpro.com/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</link>
+      <link>http://localhost:1313/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</link>
       <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</guid>
+      <guid>http://localhost:1313/posts/asp-net-mvc5-identity-2-add-username-for-registration-and-login/</guid>
       <description>&lt;p&gt;ASP.Net MVC5 Identity 2 : Add UserName For Registration and Login&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yXNj1iBe9k0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -395,9 +395,9 @@ Every subclass or derived class should be substitutable for its base or parent c
     </item>
     <item>
       <title>Get current User Id in ASP.NET MVC5</title>
-      <link>https://nazmulpro.com/posts/get-current-user-id-in-asp-net-mvc5/</link>
+      <link>http://localhost:1313/posts/get-current-user-id-in-asp-net-mvc5/</link>
       <pubDate>Fri, 26 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/get-current-user-id-in-asp-net-mvc5/</guid>
+      <guid>http://localhost:1313/posts/get-current-user-id-in-asp-net-mvc5/</guid>
       <description>&lt;p&gt;Get Current UserId in ASP.NET MVC5&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;  var userId = User.Identity.GetUserId(); 
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You must add this namespace :)&lt;/p&gt;
@@ -406,18 +406,18 @@ Every subclass or derived class should be substitutable for its base or parent c
     </item>
     <item>
       <title>Remove the Default Layout ASP.NET MVC*</title>
-      <link>https://nazmulpro.com/posts/remove-the-default-layout-asp-net-mvc/</link>
+      <link>http://localhost:1313/posts/remove-the-default-layout-asp-net-mvc/</link>
       <pubDate>Thu, 25 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/remove-the-default-layout-asp-net-mvc/</guid>
+      <guid>http://localhost:1313/posts/remove-the-default-layout-asp-net-mvc/</guid>
       <description>&lt;p&gt;If you want to remove the default layout from a view set this in that view&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; @{Layout = null;}
 &lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
       <title>OpenGL Solar System</title>
-      <link>https://nazmulpro.com/posts/opengl-solar-system/</link>
+      <link>http://localhost:1313/posts/opengl-solar-system/</link>
       <pubDate>Wed, 24 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/opengl-solar-system/</guid>
+      <guid>http://localhost:1313/posts/opengl-solar-system/</guid>
       <description>&lt;p&gt;Just found this  project in my old laptop.This is simple OpenGL Solar System Project.&lt;/p&gt;
 &lt;h2 id=&#34;hahahugoshortcode23s0hbhb&#34;&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/sqDdEqAzTQ0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -427,9 +427,9 @@ Every subclass or derived class should be substitutable for its base or parent c
     </item>
     <item>
       <title>Customize User&#39;s Profile in ASP.NET MVC5 Identity 2 [VIDEO]</title>
-      <link>https://nazmulpro.com/posts/customize-users-profile-in-asp-net-identity-2/</link>
+      <link>http://localhost:1313/posts/customize-users-profile-in-asp-net-identity-2/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/customize-users-profile-in-asp-net-identity-2/</guid>
+      <guid>http://localhost:1313/posts/customize-users-profile-in-asp-net-identity-2/</guid>
       <description>&lt;p&gt;Customize User&amp;rsquo;s Profile in ASP.NET Identity 2&lt;/p&gt;
 &lt;p&gt; 
 Watch Video&lt;/p&gt;
@@ -439,9 +439,9 @@ Watch Video&lt;/p&gt;
     </item>
     <item>
       <title>Change Default Password Validation in ASP.Net MVC5 Identity 2 [VIDEO]</title>
-      <link>https://nazmulpro.com/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</link>
+      <link>http://localhost:1313/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</link>
       <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</guid>
+      <guid>http://localhost:1313/posts/change-default-password-validation-in-asp-net-mvc5-identity-2/</guid>
       <description>&lt;p&gt;Change Default Password Validation in ASP.Net MVC5 Identity 2&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fGSHtkfd2-o?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -449,9 +449,9 @@ Watch Video&lt;/p&gt;
     </item>
     <item>
       <title>Repository Pattern</title>
-      <link>https://nazmulpro.com/posts/repository-pattern/</link>
+      <link>http://localhost:1313/posts/repository-pattern/</link>
       <pubDate>Sat, 13 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/repository-pattern/</guid>
+      <guid>http://localhost:1313/posts/repository-pattern/</guid>
       <description>&lt;p&gt;Mediates between the domain and data mapping layers using a collection-like interface for accessing domain objects. &lt;strong&gt;by Edward Hieatt and Rob Mee&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;http://martinfowler.com/eaaCatalog/repository.html&#34;&gt;Repository Pattern&lt;/a&gt; is a common construct to avoid duplication of data access logic throughout our application. The Repository pattern adds a separation layer between the data and domain layers of an application.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Why Use Repository Pattern :&lt;/strong&gt; &lt;/p&gt;
@@ -459,7 +459,7 @@ Watch Video&lt;/p&gt;
 &lt;li&gt;Increase test-ability and have a loose coupling to underlying persistence technology.&lt;/li&gt;
 &lt;li&gt;Improve the code&amp;rsquo;s maintainability and readability by separating business logic from data or service access logic.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;1&#34; loading=&#34;lazy&#34; src=&#34;https://nazmulpro.com/images/1.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/1.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
