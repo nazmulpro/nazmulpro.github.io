@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kendogrid on Nazmul&#39;s Blog</title>
-    <link>http://localhost:1313/tags/kendogrid/</link>
+    <link>https://nazmulpro.com/tags/kendogrid/</link>
     <description>Recent content in Kendogrid on Nazmul&#39;s Blog</description>
     <image>
       <title>Nazmul&#39;s Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Feb 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/kendogrid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nazmulpro.com/tags/kendogrid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Show default image if image field NULL in kendo grid</title>
-      <link>http://localhost:1313/posts/show-default-image-if-image-field-null-in-kendo-grid/</link>
+      <link>https://nazmulpro.com/posts/show-default-image-if-image-field-null-in-kendo-grid/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/show-default-image-if-image-field-null-in-kendo-grid/</guid>
+      <guid>https://nazmulpro.com/posts/show-default-image-if-image-field-null-in-kendo-grid/</guid>
       <description>&lt;p&gt;If image field is null in kendo grid and you want to show default image then use this code.It will show default image if image field null.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{
     field: &amp;#34;Photo&amp;#34;,
