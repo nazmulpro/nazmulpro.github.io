@@ -2,330 +2,330 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Nazmul&#39;s Blog</title>
-    <link>https://nazmulpro.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Nazmul&#39;s Blog</description>
     <image>
       <title>Nazmul&#39;s Blog</title>
-      <url>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Jan 2026 21:53:08 +0600</lastBuildDate>
-    <atom:link href="https://nazmulpro.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Actions</title>
-      <link>https://nazmulpro.com/tags/actions/</link>
+      <link>http://localhost:1313/tags/actions/</link>
       <pubDate>Tue, 06 Jan 2026 21:53:08 +0600</pubDate>
-      <guid>https://nazmulpro.com/tags/actions/</guid>
+      <guid>http://localhost:1313/tags/actions/</guid>
       <description></description>
     </item>
     <item>
       <title>Free</title>
-      <link>https://nazmulpro.com/tags/free/</link>
+      <link>http://localhost:1313/tags/free/</link>
       <pubDate>Tue, 06 Jan 2026 21:53:08 +0600</pubDate>
-      <guid>https://nazmulpro.com/tags/free/</guid>
+      <guid>http://localhost:1313/tags/free/</guid>
       <description></description>
     </item>
     <item>
       <title>GitHub</title>
-      <link>https://nazmulpro.com/tags/github/</link>
+      <link>http://localhost:1313/tags/github/</link>
       <pubDate>Tue, 06 Jan 2026 21:53:08 +0600</pubDate>
-      <guid>https://nazmulpro.com/tags/github/</guid>
+      <guid>http://localhost:1313/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>GitLab</title>
-      <link>https://nazmulpro.com/tags/gitlab/</link>
+      <link>http://localhost:1313/tags/gitlab/</link>
       <pubDate>Tue, 06 Jan 2026 21:53:08 +0600</pubDate>
-      <guid>https://nazmulpro.com/tags/gitlab/</guid>
+      <guid>http://localhost:1313/tags/gitlab/</guid>
       <description></description>
     </item>
     <item>
       <title>Mirror</title>
-      <link>https://nazmulpro.com/tags/mirror/</link>
+      <link>http://localhost:1313/tags/mirror/</link>
       <pubDate>Tue, 06 Jan 2026 21:53:08 +0600</pubDate>
-      <guid>https://nazmulpro.com/tags/mirror/</guid>
+      <guid>http://localhost:1313/tags/mirror/</guid>
       <description></description>
     </item>
     <item>
       <title>Notification</title>
-      <link>https://nazmulpro.com/tags/notification/</link>
+      <link>http://localhost:1313/tags/notification/</link>
       <pubDate>Wed, 02 Nov 2022 01:54:42 +0600</pubDate>
-      <guid>https://nazmulpro.com/tags/notification/</guid>
+      <guid>http://localhost:1313/tags/notification/</guid>
       <description></description>
     </item>
     <item>
       <title>Stenciljs</title>
-      <link>https://nazmulpro.com/tags/stenciljs/</link>
+      <link>http://localhost:1313/tags/stenciljs/</link>
       <pubDate>Wed, 02 Nov 2022 01:54:42 +0600</pubDate>
-      <guid>https://nazmulpro.com/tags/stenciljs/</guid>
+      <guid>http://localhost:1313/tags/stenciljs/</guid>
       <description></description>
     </item>
     <item>
       <title>Toast</title>
-      <link>https://nazmulpro.com/tags/toast/</link>
+      <link>http://localhost:1313/tags/toast/</link>
       <pubDate>Wed, 02 Nov 2022 01:54:42 +0600</pubDate>
-      <guid>https://nazmulpro.com/tags/toast/</guid>
+      <guid>http://localhost:1313/tags/toast/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Component</title>
-      <link>https://nazmulpro.com/tags/web-component/</link>
+      <link>http://localhost:1313/tags/web-component/</link>
       <pubDate>Wed, 02 Nov 2022 01:54:42 +0600</pubDate>
-      <guid>https://nazmulpro.com/tags/web-component/</guid>
+      <guid>http://localhost:1313/tags/web-component/</guid>
       <description></description>
     </item>
     <item>
       <title>SOLID</title>
-      <link>https://nazmulpro.com/tags/solid/</link>
+      <link>http://localhost:1313/tags/solid/</link>
       <pubDate>Tue, 01 Nov 2022 16:52:54 +0600</pubDate>
-      <guid>https://nazmulpro.com/tags/solid/</guid>
+      <guid>http://localhost:1313/tags/solid/</guid>
       <description></description>
     </item>
     <item>
       <title>SOLID Principles</title>
-      <link>https://nazmulpro.com/tags/solid-principles/</link>
+      <link>http://localhost:1313/tags/solid-principles/</link>
       <pubDate>Tue, 01 Nov 2022 16:52:54 +0600</pubDate>
-      <guid>https://nazmulpro.com/tags/solid-principles/</guid>
+      <guid>http://localhost:1313/tags/solid-principles/</guid>
       <description></description>
     </item>
     <item>
       <title>Treeview</title>
-      <link>https://nazmulpro.com/tags/treeview/</link>
+      <link>http://localhost:1313/tags/treeview/</link>
       <pubDate>Wed, 31 Aug 2022 21:22:33 +0600</pubDate>
-      <guid>https://nazmulpro.com/tags/treeview/</guid>
+      <guid>http://localhost:1313/tags/treeview/</guid>
       <description></description>
     </item>
     <item>
       <title>Iis</title>
-      <link>https://nazmulpro.com/tags/iis/</link>
+      <link>http://localhost:1313/tags/iis/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/iis/</guid>
+      <guid>http://localhost:1313/tags/iis/</guid>
       <description></description>
     </item>
     <item>
       <title>Iisnode</title>
-      <link>https://nazmulpro.com/tags/iisnode/</link>
+      <link>http://localhost:1313/tags/iisnode/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/iisnode/</guid>
+      <guid>http://localhost:1313/tags/iisnode/</guid>
       <description></description>
     </item>
     <item>
       <title>Nuxtjs</title>
-      <link>https://nazmulpro.com/tags/nuxtjs/</link>
+      <link>http://localhost:1313/tags/nuxtjs/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/nuxtjs/</guid>
+      <guid>http://localhost:1313/tags/nuxtjs/</guid>
       <description></description>
     </item>
     <item>
       <title>Vuejs</title>
-      <link>https://nazmulpro.com/tags/vuejs/</link>
+      <link>http://localhost:1313/tags/vuejs/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/vuejs/</guid>
+      <guid>http://localhost:1313/tags/vuejs/</guid>
       <description></description>
     </item>
     <item>
       <title>Bootable</title>
-      <link>https://nazmulpro.com/tags/bootable/</link>
+      <link>http://localhost:1313/tags/bootable/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/bootable/</guid>
+      <guid>http://localhost:1313/tags/bootable/</guid>
       <description></description>
     </item>
     <item>
       <title>Bootstrapvue</title>
-      <link>https://nazmulpro.com/tags/bootstrapvue/</link>
+      <link>http://localhost:1313/tags/bootstrapvue/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/bootstrapvue/</guid>
+      <guid>http://localhost:1313/tags/bootstrapvue/</guid>
       <description></description>
     </item>
     <item>
       <title>Ecommerce</title>
-      <link>https://nazmulpro.com/tags/ecommerce/</link>
+      <link>http://localhost:1313/tags/ecommerce/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/ecommerce/</guid>
+      <guid>http://localhost:1313/tags/ecommerce/</guid>
       <description></description>
     </item>
     <item>
       <title>Pen-Drive</title>
-      <link>https://nazmulpro.com/tags/pen-drive/</link>
+      <link>http://localhost:1313/tags/pen-drive/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/pen-drive/</guid>
+      <guid>http://localhost:1313/tags/pen-drive/</guid>
       <description></description>
     </item>
     <item>
       <title>Shopping-Cart</title>
-      <link>https://nazmulpro.com/tags/shopping-cart/</link>
+      <link>http://localhost:1313/tags/shopping-cart/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/shopping-cart/</guid>
+      <guid>http://localhost:1313/tags/shopping-cart/</guid>
       <description></description>
     </item>
     <item>
       <title>Vuex</title>
-      <link>https://nazmulpro.com/tags/vuex/</link>
+      <link>http://localhost:1313/tags/vuex/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/vuex/</guid>
+      <guid>http://localhost:1313/tags/vuex/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>https://nazmulpro.com/tags/windows/</link>
+      <link>http://localhost:1313/tags/windows/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/windows/</guid>
+      <guid>http://localhost:1313/tags/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows10</title>
-      <link>https://nazmulpro.com/tags/windows10/</link>
+      <link>http://localhost:1313/tags/windows10/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/windows10/</guid>
+      <guid>http://localhost:1313/tags/windows10/</guid>
       <description></description>
     </item>
     <item>
       <title>Asp-Net-Core</title>
-      <link>https://nazmulpro.com/tags/asp-net-core/</link>
+      <link>http://localhost:1313/tags/asp-net-core/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/asp-net-core/</guid>
+      <guid>http://localhost:1313/tags/asp-net-core/</guid>
       <description></description>
     </item>
     <item>
       <title>Angularjs-4</title>
-      <link>https://nazmulpro.com/tags/angularjs-4/</link>
+      <link>http://localhost:1313/tags/angularjs-4/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/angularjs-4/</guid>
+      <guid>http://localhost:1313/tags/angularjs-4/</guid>
       <description></description>
     </item>
     <item>
       <title>Firebase</title>
-      <link>https://nazmulpro.com/tags/firebase/</link>
+      <link>http://localhost:1313/tags/firebase/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/firebase/</guid>
+      <guid>http://localhost:1313/tags/firebase/</guid>
       <description></description>
     </item>
     <item>
       <title>Video</title>
-      <link>https://nazmulpro.com/tags/video/</link>
+      <link>http://localhost:1313/tags/video/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/video/</guid>
+      <guid>http://localhost:1313/tags/video/</guid>
       <description></description>
     </item>
     <item>
       <title>Kendogrid</title>
-      <link>https://nazmulpro.com/tags/kendogrid/</link>
+      <link>http://localhost:1313/tags/kendogrid/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/kendogrid/</guid>
+      <guid>http://localhost:1313/tags/kendogrid/</guid>
       <description></description>
     </item>
     <item>
       <title>Csharp</title>
-      <link>https://nazmulpro.com/tags/csharp/</link>
+      <link>http://localhost:1313/tags/csharp/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/csharp/</guid>
+      <guid>http://localhost:1313/tags/csharp/</guid>
       <description></description>
     </item>
     <item>
       <title>Factorial-Number</title>
-      <link>https://nazmulpro.com/tags/factorial-number/</link>
+      <link>http://localhost:1313/tags/factorial-number/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/factorial-number/</guid>
+      <guid>http://localhost:1313/tags/factorial-number/</guid>
       <description></description>
     </item>
     <item>
       <title>Recursion</title>
-      <link>https://nazmulpro.com/tags/recursion/</link>
+      <link>http://localhost:1313/tags/recursion/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/recursion/</guid>
+      <guid>http://localhost:1313/tags/recursion/</guid>
       <description></description>
     </item>
     <item>
       <title>Evernote</title>
-      <link>https://nazmulpro.com/tags/evernote/</link>
+      <link>http://localhost:1313/tags/evernote/</link>
       <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/evernote/</guid>
+      <guid>http://localhost:1313/tags/evernote/</guid>
       <description></description>
     </item>
     <item>
       <title>Onenote</title>
-      <link>https://nazmulpro.com/tags/onenote/</link>
+      <link>http://localhost:1313/tags/onenote/</link>
       <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/onenote/</guid>
+      <guid>http://localhost:1313/tags/onenote/</guid>
       <description></description>
     </item>
     <item>
       <title>Asp-Net-Mvc-2</title>
-      <link>https://nazmulpro.com/tags/asp-net-mvc-2/</link>
+      <link>http://localhost:1313/tags/asp-net-mvc-2/</link>
       <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/asp-net-mvc-2/</guid>
+      <guid>http://localhost:1313/tags/asp-net-mvc-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Identity</title>
-      <link>https://nazmulpro.com/tags/identity/</link>
+      <link>http://localhost:1313/tags/identity/</link>
       <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/identity/</guid>
+      <guid>http://localhost:1313/tags/identity/</guid>
       <description></description>
     </item>
     <item>
       <title>Identity-2</title>
-      <link>https://nazmulpro.com/tags/identity-2/</link>
+      <link>http://localhost:1313/tags/identity-2/</link>
       <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/identity-2/</guid>
+      <guid>http://localhost:1313/tags/identity-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Login</title>
-      <link>https://nazmulpro.com/tags/login/</link>
+      <link>http://localhost:1313/tags/login/</link>
       <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/login/</guid>
+      <guid>http://localhost:1313/tags/login/</guid>
       <description></description>
     </item>
     <item>
       <title>Mvc5</title>
-      <link>https://nazmulpro.com/tags/mvc5/</link>
+      <link>http://localhost:1313/tags/mvc5/</link>
       <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/mvc5/</guid>
+      <guid>http://localhost:1313/tags/mvc5/</guid>
       <description></description>
     </item>
     <item>
       <title>Registration</title>
-      <link>https://nazmulpro.com/tags/registration/</link>
+      <link>http://localhost:1313/tags/registration/</link>
       <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/registration/</guid>
+      <guid>http://localhost:1313/tags/registration/</guid>
       <description></description>
     </item>
     <item>
       <title>Current-User</title>
-      <link>https://nazmulpro.com/tags/current-user/</link>
+      <link>http://localhost:1313/tags/current-user/</link>
       <pubDate>Fri, 26 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/current-user/</guid>
+      <guid>http://localhost:1313/tags/current-user/</guid>
       <description></description>
     </item>
     <item>
       <title>Asp-Net</title>
-      <link>https://nazmulpro.com/tags/asp-net/</link>
+      <link>http://localhost:1313/tags/asp-net/</link>
       <pubDate>Thu, 25 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/asp-net/</guid>
+      <guid>http://localhost:1313/tags/asp-net/</guid>
       <description></description>
     </item>
     <item>
       <title>Opengl</title>
-      <link>https://nazmulpro.com/tags/opengl/</link>
+      <link>http://localhost:1313/tags/opengl/</link>
       <pubDate>Wed, 24 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/opengl/</guid>
+      <guid>http://localhost:1313/tags/opengl/</guid>
       <description></description>
     </item>
     <item>
       <title>Password</title>
-      <link>https://nazmulpro.com/tags/password/</link>
+      <link>http://localhost:1313/tags/password/</link>
       <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/password/</guid>
+      <guid>http://localhost:1313/tags/password/</guid>
       <description></description>
     </item>
     <item>
       <title>Validation</title>
-      <link>https://nazmulpro.com/tags/validation/</link>
+      <link>http://localhost:1313/tags/validation/</link>
       <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/tags/validation/</guid>
+      <guid>http://localhost:1313/tags/validation/</guid>
       <description></description>
     </item>
   </channel>

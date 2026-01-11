@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Iis on Nazmul&#39;s Blog</title>
-    <link>https://nazmulpro.com/tags/iis/</link>
+    <link>http://localhost:1313/tags/iis/</link>
     <description>Recent content in Iis on Nazmul&#39;s Blog</description>
     <image>
       <title>Nazmul&#39;s Blog</title>
-      <url>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nazmulpro.com/tags/iis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/iis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Deploy NuxtJs Application on IIS</title>
-      <link>https://nazmulpro.com/posts/how-to-deploy-nuxtjs-application-on-iis/</link>
+      <link>http://localhost:1313/posts/how-to-deploy-nuxtjs-application-on-iis/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://nazmulpro.com/posts/how-to-deploy-nuxtjs-application-on-iis/</guid>
+      <guid>http://localhost:1313/posts/how-to-deploy-nuxtjs-application-on-iis/</guid>
       <description>&lt;h3 id=&#34;please-first-watch-this-video&#34;&gt;Please first watch this video&lt;/h3&gt;
 &lt;h2 id=&#34;hahahugoshortcode20s0hbhb&#34;&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/68hUMOQM9DA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
