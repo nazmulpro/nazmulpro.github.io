@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Angularjs-4 on Nazmul&#39;s Blog</title>
-    <link>http://localhost:1313/tags/angularjs-4/</link>
+    <link>https://nazmulpro.com/tags/angularjs-4/</link>
     <description>Recent content in Angularjs-4 on Nazmul&#39;s Blog</description>
     <image>
       <title>Nazmul&#39;s Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/angularjs-4/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nazmulpro.com/tags/angularjs-4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angularjs 4 &#43; Firebase ToDo Application (Video)</title>
-      <link>http://localhost:1313/posts/angularjs-4-firebase-todo-application-video/</link>
+      <link>https://nazmulpro.com/posts/angularjs-4-firebase-todo-application-video/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/angularjs-4-firebase-todo-application-video/</guid>
+      <guid>https://nazmulpro.com/posts/angularjs-4-firebase-todo-application-video/</guid>
       <description>&lt;p&gt;Simple Angularjs 4 + Firebase Todo App&lt;/p&gt;
 &lt;p&gt;Setup and Demo Video &lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
