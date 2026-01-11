@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SOLID on Nazmul&#39;s Blog</title>
-    <link>https://nazmulpro.com/tags/solid/</link>
+    <link>http://localhost:1313/tags/solid/</link>
     <description>Recent content in SOLID on Nazmul&#39;s Blog</description>
     <image>
       <title>Nazmul&#39;s Blog</title>
-      <url>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nazmulpro.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Nov 2022 16:52:54 +0600</lastBuildDate>
-    <atom:link href="https://nazmulpro.com/tags/solid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/solid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SOLID Principles-Short Note</title>
-      <link>https://nazmulpro.com/posts/solid-principles/</link>
+      <link>http://localhost:1313/posts/solid-principles/</link>
       <pubDate>Tue, 01 Nov 2022 16:52:54 +0600</pubDate>
-      <guid>https://nazmulpro.com/posts/solid-principles/</guid>
+      <guid>http://localhost:1313/posts/solid-principles/</guid>
       <description>&lt;p&gt;&lt;strong&gt;SOLID principles were introduced by &lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_C._Martin&#34;&gt;Robert C.Martin&lt;/a&gt; (Uncle Bob). - Robert Cecil Martin&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What does SOLID stand for?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;S – Single Responsibility Principle&lt;/strong&gt;&lt;br&gt;
